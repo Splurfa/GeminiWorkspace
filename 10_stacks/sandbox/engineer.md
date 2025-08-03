@@ -22,7 +22,7 @@ Before providing project context, the sandbox_engineer must perform a configurat
 
 The sandbox_engineer.md must be programmed with the following data flow logic to manage the sequence:
 
-*   **From _prompt_34 to _prompt_36:**
+*   **From /Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/34-pre-code-planning-canvas.md to /Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/36-database-schema-designer.md:**
     *   The User Stories and Key Operations sections from the output of **#34** are used as the primary input for **#36**.
-*   **From _prompt_34 to _prompt_35:**
-    *   The Core Concept, Problem It Solves, and Target Audience sections from the output of **#34** are used as the primary input for **#35**.
+*   **From /Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/34-pre-code-planning-canvas.md to /Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/35-visual-design-direction-finder.md:**
+    *   The Core Concept, Problem It Solves, and Target Audience sections from the output of **`/Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/34-pre-code-planning-canvas.md`** are used as the primary input for **`/Users/splurfa/Documents/GeminiWorkspace/30_library/prompts/technical-design/35-visual-design-direction-finder.md`**.
