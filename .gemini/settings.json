@@ -1,0 +1,9 @@
+{
+  "autoAccept": false,
+  "checkpointing": {
+    "enabled": true
+  },
+  "fileFiltering": {
+    "respectGitIgnore": true
+  }
+}
