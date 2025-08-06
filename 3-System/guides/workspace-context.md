@@ -48,6 +48,7 @@ For detailed guidance on specific aspects of this workspace, refer to the follow
 *   **Prompt Assembly Protocol:** [[3-System/guides/prompt-assembly-protocol.md]]
 *   **Synthesis Protocol:** [[3-System/guides/synthesis-protocol.md]]
 *   **Captain's Log Protocol:** [[3-System/guides/captains-log-protocol.md]]
+*   **GitHub Synchronization Protocol:** [[3-System/guides/github-sync-protocol.md]]
 
 ## VIII. Future Considerations
 
