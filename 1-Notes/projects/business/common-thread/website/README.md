@@ -6,4 +6,4 @@
 
 For a comprehensive overview, mission, objectives, and current status of the Common Thread website project, please refer to its dedicated project manifest:
 
-*   `[[website-manifest]]`
+*   [[website-manifest]]

@@ -6,4 +6,4 @@
 
 For a comprehensive overview, mission, objectives, and current status of the Behavior Support App project, please refer to its dedicated project manifest:
 
-*   `[[bx-os-manifest]]`
+*   [[bx-os-manifest]]

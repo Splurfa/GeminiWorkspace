@@ -4,6 +4,6 @@
 
 ## Contents:
 
-*   **`prompts/`:** Contains the master library of prompt templates. Refer to `[[2-Library/prompts/prompts-index.md]]` for details.
-*   **`reference-materials/`:** Stores general reference documents and foundational knowledge. Refer to `[[2-Library/reference-materials/README.md]]` for details.
-*   **`stacks/`:** Houses all reusable, modular, and orchestrated prompt stacks. Refer to `[[2-Library/stacks/README.md]]` for details.
+*   **`prompts/`:** Contains the master library of prompt templates. Refer to [[2-Library/prompts/prompts-index.md]] for details.
+*   **`reference-materials/`:** Stores general reference documents and foundational knowledge. Refer to [[2-Library/reference-materials/README.md]] for details.
+*   **`stacks/`:** Houses all reusable, modular, and orchestrated prompt stacks. Refer to [[2-Library/stacks/README.md]] for details.

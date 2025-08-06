@@ -17,11 +17,11 @@ tags: []
 *   Gather initial design ideas and assets.
 
 ## Key Resources
-*   **Project Folder:** `[[1-Notes/projects/business/common-thread/website]]`
+*   **Project Folder:** [[1-Notes/projects/business/common-thread/website]]
 *   **External Links:**
 *   **Related Notes:**
-    *   `[[website-outline]]`
-    *   `[[Common Thread Branding Notes]]` (Located in `1-Notes/archived-notes/` or `4-Archive/old-notes/` if moved)
+    *   [[website-outline]]
+    *   [[Common Thread Branding Notes]] (Located in `1-Notes/archived-notes/` or `4-Archive/old-notes/` if moved)
 *   **What You'll Find Here (Migrated from old README):**
     *   Concept Notes: Initial ideas and research related to behavior support.
     *   Requirements: (Placeholder for future documents outlining app features and user needs.)

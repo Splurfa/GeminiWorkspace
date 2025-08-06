@@ -16,11 +16,11 @@ tags: []
 *   Deliver a functional alpha/beta pilot within a week (from original business notes).
 
 ## Key Resources
-*   **Project Folder:** `[[1-Notes/projects/business/bx-os]]`
+*   **Project Folder:** [[1-Notes/projects/business/bx-os]]
 *   **External Links:**
 *   **Related Notes:**
-    *   `[[Personal-Board-of-Directors-Meeting-2025-08-04]]`
-    *   `[[20250802-business-notes]]`
+    *   [[Personal-Board-of-Directors-Meeting-2025-08-04]]
+    *   [[20250802-business-notes]]
 *   **Tech Stack/Tools:** Lovable + Supabase + Netlify
 
 ## Next Actions (High-Level)

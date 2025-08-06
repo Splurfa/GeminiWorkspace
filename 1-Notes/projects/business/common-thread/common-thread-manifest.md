@@ -19,13 +19,13 @@ tags: []
 *   Approach "Danny" with the packaged proposal.
 
 ## Key Resources
-*   **Project Folder:** `[[1-Notes/projects/business/common-thread]]`
+    *   **Project Folder:** [[1-Notes/projects/business/common-thread]]
 *   **External Links:**
 *   **Related Notes:**
-    *   `[[Common Thread Branding Notes]]`
-    *   `[[AI Tooling]]`
-    *   `[[Consulting Strategy]]`
-    *   `[[Partnership Model]]`
+    *   [[Common Thread Branding Notes]]
+    *   [[AI Tooling]]
+    *   [[Consulting Strategy]]
+    *   [[Partnership Model]]
 *   **Team:**
     *   Zach (Practice & Operations): Ensures solutions are practical, realistic, and aligned with how work really happens.
     *   Derek (Systems & Development): Provides systems thinking and modular design expertise for clear, measurable, and long-term usable solutions.

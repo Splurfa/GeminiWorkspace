@@ -10,7 +10,7 @@ This protocol outlines the principles and best practices for applying tags acros
 *   **Clarity & Specificity:** Tags should be clear, concise, and specific enough to be useful for retrieval.
 *   **Obsidian Compatibility:** Always ensure tags are recognized by Obsidian.
     *   **YAML Frontmatter Syntax:** When adding tags to the `tags:` field in YAML frontmatter, list them as plain strings without the `#` prefix (e.g., `tags: [strategy, system, bx-os]`).
-    *   **Inline Tag Recognition:** Ensure all inline tags (`#tag`) are immediately followed by a space, newline, or punctuation (e.g., `#tag.`, `#tag,`) to ensure correct parsing by Obsidian. **Crucially, inline tags should be formatted as `#tag` without any surrounding apostrophes or other characters that might interfere with Obsidian's recognition.**
+    *   **Inline Tag Recognition:** Ensure all inline tags (`#tag`) are immediately followed by a space, newline, or punctuation (e.g., `#tag.`, `#tag,`) to ensure correct parsing by Obsidian. **Crucially, inline tags and wikilinks (`[[link]]`) should be formatted without any surrounding backticks (`) or apostrophes (') or other characters that might interfere with Obsidian\'s recognition.**
 
 ## II. The Three Pillars of Tagging (Categories & Examples)
 

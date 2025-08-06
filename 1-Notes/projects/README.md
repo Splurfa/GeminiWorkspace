@@ -10,7 +10,7 @@ This directory organizes your projects by domain, providing a structured overvie
 
 ## Understanding & Managing Projects:
 
-Each project within these domains has its own dedicated folder and is managed through a `[project-name]-manifest.md` file. For detailed guidance on project manifests and project management, refer to the `[[project-manifest-protocol]]`.
+Each project within these domains has its own dedicated folder and is managed through a `[project-name]-manifest.md` file. For detailed guidance on project manifests and project management, refer to the [[project-manifest-protocol]].
 
 ## Starting a New Project:
 

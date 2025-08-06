@@ -5,8 +5,8 @@ This protocol outlines the standardized method for creating and formatting notes
 ## I. Core Principles
 
 1.  **Title Case for Everything:** All filenames and note titles (the H1 heading) MUST use Title Case (e.g., `This Is a Title.md`). This improves readability in the file explorer and graph.
-2.  **Wikilinks for Inter-Note Connections:** For linking *between* different notes or to broader topics, use the `[[Title Case]]` wikilink format. This is for building your knowledge graph across multiple documents.
-3.  **Inline Stacked Tags for Classification:** Tags are for classification and cross-cutting organization. Use multiple, simple, single-word tags stacked together directly within the note content (e.g., `#business #strategy #client`). We do NOT use slashes or hyphens within a single tag.
+2.  **Wikilinks for Inter-Note Connections:** For linking *between* different notes or to broader topics, use the `[[Title Case]]` wikilink format. This is for building your knowledge graph across multiple documents. **Crucially, wikilinks should be formatted without any surrounding backticks (`) or apostrophes (') or other characters that might interfere with Obsidian's recognition.**
+3.  **Inline Stacked Tags for Classification:** Tags are for classification and cross-cutting organization. Use multiple, simple, single-word tags stacked together directly within the note content (e.g., `#business #strategy #client`). We do NOT use slashes or hyphens within a single tag. **Crucially, inline tags should be formatted without any surrounding backticks (`) or apostrophes (') or other characters that might interfere with Obsidian's recognition.**
 
 ## II. The General Note Template
 
