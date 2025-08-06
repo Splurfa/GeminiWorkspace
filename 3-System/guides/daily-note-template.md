@@ -1,3 +1,7 @@
+---
+date: YYYY-MM-DD
+tags: []
+---
 # Daily Note - [YYYY-MM-DD]
 
 ## 1. Raw Sources for Processing (Your Daily Capture)
@@ -39,38 +43,30 @@
 
 ## 3. Active Processing & Exploration (Your Core Thinking Space)
 
-*   _Purpose: This is your main thinking space. Actively process the structured input from Section 2, drawing connections, identifying themes, exploring implications, and generating new understanding. Jump between these sub-sections at any time._
-*   _How to use: When you write something here, always refer back to the specific "Input" (e.g., "Input 1," "Project X Communication Strategy") that informed your thought. Use standard #tags (e.g., #AI, #Tooling, #Strategy) to categorize._
+*   _Purpose: This is your main thinking space. Actively process the structured input from Section 2, drawing connections, identifying themes, exploring implications, and generating new understanding. Organize your thoughts by the source that prompted them._
+*   _How to use: For each source (from Section 1 or 2), create a dedicated sub-section. Underneath each source, explore emerging themes, tool ideas, uncertainties, strategic connections, and actionable experiments related to that specific source. Use standard #tags (e.g., #AI, #Tooling, #Strategy) to categorize._
 
-### A. Emerging Themes & Core Questions
+### Source [Identifier] (e.g., Source A, Input 1, Meeting Notes)
 
-*   _What overarching patterns or fundamental questions are you identifying across your structured input? (e.g., "What's the big picture here?")_
+#### Emerging Themes & Core Questions
+*   _What overarching patterns or fundamental questions are you identifying from this source?_
+    *   Example: `Theme: The critical role of user feedback in product development. #ProductDevelopment`
 
-    *   Example: `Input 1 & Input 2 -> Theme: Effective integration of new tools/processes (AI, cross-functional teams) consistently relies on clear communication and understanding human factors. #Integration #Communication`
+#### Tool & Workflow Ideas
+*   _What specific tools, methods, or workflow adjustments are you considering or discovering based on this source?_
+    *   Example: `Tool: Consider using a new project management tool mentioned in this source for better task tracking. #Tooling`
 
-### B. Tool & Workflow Ideas
+#### Uncertainties & Deep Dives
+*   _What areas remain unclear, ambiguous, or require more focused research after reviewing this source?_
+    *   Example: `Uncertainty: The long-term scalability of the proposed solution needs further investigation. #ResearchNeeded`
 
-*   _What specific tools, methods, or workflow adjustments are you considering or discovering based on your structured input? (e.g., "How can I work smarter?")_
+#### Strategic Connections & Implications
+*   _How do the insights from this source relate to your broader goals, ongoing projects, or different domains of your life (business, personal, etc.)?_
+    *   Example: `Connection: This source's emphasis on agile methodologies directly applies to my current business project. #Strategy`
 
-    *   Example: `Input 1 -> LangChain seems like a promising tool for automating research processing. Need to investigate its capabilities for personal use. #Tooling #Automation`
-
-### C. Uncertainties & Deep Dives
-
-*   _What areas remain unclear, ambiguous, or require more focused research after reviewing your structured input? (e.g., "What do I need to understand better?")_
-
-    *   Example: `Input 1 -> The exact mechanism of how LangChain integrates with existing PKM systems is still fuzzy. Need a deep dive into its API/connectors. #ResearchNeeded`
-
-### D. Strategic Connections & Implications
-
-*   _How do these connections relate to your broader goals, ongoing projects, or different domains of your life (business, personal, etc.)? (e.g., "Where does this fit in my bigger picture?")_
-
-    *   Example: `Input 2 -> The emphasis on communication silos in Project X directly relates to my 'Client Strategy' note on team collaboration. #Strategy #ProjectX`
-
-### E. Actionable Experiments & Next Steps (from Processing)
-
-*   _What small, concrete actions or experiments can you take to explore these ideas further? (e.g., "What's the very next step?")_
-
-    *   Example: `Input 1 -> Next Step: Allocate 30 minutes to watch a LangChain introductory tutorial today. (Goal: Get a high-level overview).`
+#### Actionable Experiments & Next Steps
+*   _What small, concrete actions or experiments can you take to explore the ideas from this source further?_
+    *   Example: `Next Step: Schedule a 15-minute brainstorming session to apply this source's concept to a current challenge. #Action`
 
 ---
 
