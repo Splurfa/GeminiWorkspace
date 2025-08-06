@@ -28,7 +28,7 @@ type: daily-note
 ### Input 3: Detailed Briefing - Beyond ChatGPT - Leveraging Specialized AI Tools
 *   **Key Takeaway:** Specialized AI tools can outperform general LLMs for specific tasks like UI generation (Magic Patterns), spreadsheet intelligence, and more.
 *   **Question:** Could a combination of these specialized tools (e.g., Magic Patterns + Airtable + Wized) form a more robust and flexible stack than an all-in-one solution?
-*   **Reference Document:** `nate-jones-ai-tools-briefing.md`
+*   **Reference Document:** nate-jones-ai-tools-briefing.md
 
 ---
 
