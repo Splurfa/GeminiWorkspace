@@ -1,10 +1,11 @@
 ---
 project_id: PROJ-BXOS
 mission: To develop a behavior tracking application (Behavioral OS) for Hillel Hebrew Academy.
-status: on-hold
-date_initiated: 
+status: In-Progress, Blocked
+date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
-tags: []
+tags: [project, manifest, bx-os, in-progress, blocked]
+related_notes: [[board-meeting-2025-08-04-01]], [[20250802-business-notes]]
 ---
 # Project Manifest: Behavior Support App
 
@@ -18,9 +19,6 @@ tags: []
 ## Key Resources
 *   **Project Folder:** [[1-Notes/projects/business/bx-os]]
 *   **External Links:**
-*   **Related Notes:**
-    *   [[Personal-Board-of-Directors-Meeting-2025-08-04]]
-    *   [[20250802-business-notes]]
 *   **Tech Stack/Tools:** Lovable + Supabase + Netlify
 
 ## Next Actions (High-Level)

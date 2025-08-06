@@ -1,10 +1,11 @@
 ---
 project_id: PROJ-COMMONTHREAD
 mission: To solve complex problems through modular thinking, combining operational insight with technical expertise to design practical tools that teams willingly adopt and use.
-status: ideation
-date_initiated: 
+status: Ideation
+date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
-tags: []
+tags: [project, manifest, common-thread, ideation]
+related_notes: [[ai-tooling]], [[consulting-strategy]], [[partnership-model]]
 ---
 # Project Manifest: Common Thread
 
@@ -22,10 +23,9 @@ tags: []
     *   **Project Folder:** [[1-Notes/projects/business/common-thread]]
 *   **External Links:**
 *   **Related Notes:**
-    *   [[Common Thread Branding Notes]]
-    *   [[AI Tooling]]
-    *   [[Consulting Strategy]]
-    *   [[Partnership Model]]
+    *   [[ai-tooling]]
+    *   [[consulting-strategy]]
+    *   [[partnership-model]]
 *   **Team:**
     *   Zach (Practice & Operations): Ensures solutions are practical, realistic, and aligned with how work really happens.
     *   Derek (Systems & Development): Provides systems thinking and modular design expertise for clear, measurable, and long-term usable solutions.

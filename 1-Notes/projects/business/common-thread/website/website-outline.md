@@ -1,6 +1,10 @@
-# Common Thread
-
 ---
+title: Website Outline
+date: 2025-08-06
+tags: [project, common-thread, website, outline]
+related_notes: [[common-thread-manifest]]
+---
+# Website Outline
 
 ## Solving complex problems, one step at a time.
 
@@ -64,15 +68,15 @@ Real examples of our method in practice:
 
 ### 🏫 Private K–8 School
 
-**Focus:** Enhancing consistency and accountability in behavior tracking and follow-up.
+**Focus:** Enhancing consistency and accountability in behavior tracking and follow-up.
 
 ### 🩺 Clinical Services Provider
 
-**Focus:** Simplifying documentation and assessment workflows to support clinicians.
+**Focus:** Simplifying documentation and assessment workflows to support clinicians.
 
 ### 🏢 Multi-Location Operations
 
-**Focus:** Increasing clarity and efficiency across complex, multi-site organizations.
+**Focus:** Increasing clarity and efficiency across complex, multi-site organizations.
 
 ---
 
@@ -81,7 +85,7 @@ Real examples of our method in practice:
 > The most effective solutions are built at the intersection of technical skill and real-world understanding.
 > 
 
-It’s not just what *can* be built — it’s what *should* be built, based on how people actually work.
+It’s not just what *can* be built — it’s what *should* be built, based on how people actually work.
 
 ---
 
@@ -99,7 +103,7 @@ Derek provides systems thinking and modular design expertise.
 
 He ensures each solution is clear, measurable, and built for long-term usability.
 
-> Together: Real-world insight × technical precision = tools that actually work.
+> Together: Real-world insight × technical precision = tools that actually work.
 > 
 
 ---
@@ -124,6 +128,6 @@ Each solution becomes a modular building block that fits into a larger, smarter 
 
 ---
 
-**Common Thread** 🧵
+**Common Thread** 🧵
 
 *Clear thinking. Practical solutions. Lasting connections.*

@@ -1,11 +1,11 @@
 ---
 date: 2025-08-05
-tags: [strategy, system, bx-os, tooling, ai, board-meeting, nate-jones-briefing]
-type: daily-note
+tags: [strategy, system, bx-os, tooling, ai, board-meeting, nate-jones-briefing, daily-note]
+related_notes: [[board-meeting-2025-08-04-01]], [[board-meeting-2025-08-05-01]], [[nate-jones-ai-tools-briefing]]
 ---
 # Daily Note - 2025-08-05
 
-## 1. Raw Sources for Processing (Your Daily Capture)
+## 1. Raw Sources for Processing
 
 *   **Source: Nate's Newsletter - Beyond the Chat: 12 Specialist AI Tools**
     *   URL: https://natesnewsletter.substack.com/p/beyond-the-chat-12-specialist-ai
@@ -13,26 +13,26 @@ type: daily-note
 
 ---
 
-## 2. Today's Structured Input (Your Daily Processing Hub)
+## 2. Today's Structured Input
 
 ### Input 1: Meeting - Personal Board of Directors (2025-08-04)
 *   **Key Takeaway:** The board recommended a "diagnose and document" approach to the Supabase bug, time-boxing the diagnosis and simultaneously drafting a "v0.1" of an "80/20 Gap Protocol."
 *   **Question:** Is the blocking feature truly necessary for the MVP?
-*   **Full Details:** [[3-System/session-logs/board-meetings/board-meeting-2025-08-04-01.md]]
+*   **Full Details:** [[3-system/session-logs/board-meetings/board-meeting-2025-08-04-01]]
 
 ### Input 2: Meeting - Personal Board of Directors (2025-08-05)
 *   **Key Takeaway:** The board endorsed a "Parallel Experiment" (Path D) to de-risk the technical stack decision for the Behavioral App, involving a time-boxed build of the core feature in a new stack.
 *   **Question:** What is the single most important feature of the app, and can it be built in isolation?
-*   **Full Details:** [[3-System/session-logs/board-meetings/board-meeting-2025-08-05-01.md]]
+*   **Full Details:** [[3-system/session-logs/board-meetings/board-meeting-2025-08-05-01]]
 
 ### Input 3: Detailed Briefing - Beyond ChatGPT - Leveraging Specialized AI Tools
 *   **Key Takeaway:** Specialized AI tools can outperform general LLMs for specific tasks like UI generation (Magic Patterns), spreadsheet intelligence, and more.
 *   **Question:** Could a combination of these specialized tools (e.g., Magic Patterns + Airtable + Wized) form a more robust and flexible stack than an all-in-one solution?
-*   **Reference Document:** nate-jones-ai-tools-briefing.md
+*   **Reference Document:** [[nate-jones-ai-tools-briefing]]
 
 ---
 
-## 3. Active Processing & Exploration (Your Core Thinking Space)
+## 3. Active Processing & Exploration
 
 ### Overarching Themes & Questions
 *   **Theme:** A clear evolution in thinking from a narrow, tactical bug-hunt to a broader, strategic, systems-based approach for project execution. The core question has shifted from "How do I fix this bug?" to "What is the wisest process for making technical decisions and shipping products?"
@@ -59,9 +59,9 @@ type: daily-note
 
 ---
 
-## 4. System & Growth Maintenance (Ongoing Initiatives & Upkeep)
+## 4. System & Growth Maintenance
 
-*   `Spent a significant amount of time today on system setup and hygiene, as per the Captain's Log, to prepare the workspace for daily use. #system #maintenance`
+*   Spent a significant amount of time today on system setup and hygiene, as per the Captain's Log, to prepare the workspace for daily use. #system #maintenance
 
 ---
 
@@ -75,7 +75,7 @@ type: daily-note
 
 ---
 
-## 6. Daily Review & Open Items (Reflection, Future Focus, & General Notes)
+## 6. Daily Review & Open Items
 
 ### A. Reflection
 *   Today marked a significant shift from feeling stuck and frustrated by a technical problem to having a clear, logical, and actionable plan. The process of convening the "board" and structuring the problem has created clarity and momentum.
