@@ -20,6 +20,9 @@ This is a comprehensive index of all prompt templates available in your Gemini w
 *   [11-Writing Style Analyzer](writing-communication/11-writing-style-analyzer.md)
 *   [12-Constrained Analysis Engine](writing-communication/12-constrained-analysis-engine.md)
 
+### Analysis & Synthesis
+*   [Conversation Synthesis](analysis-synthesis/conversation-synthesis.md)
+
 ### Business Strategy & Analysis
 *   [13-Market Size Calculator](business-strategy/13-market-size-calculator.md)
 *   [14-Competitive Intelligence Scanner](business-strategy/14-competitive-intelligence-scanner.md)

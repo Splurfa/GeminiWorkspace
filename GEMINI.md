@@ -18,3 +18,7 @@ This folder serves as the permanent home base for your Gemini CLI sessions. For 
 - Numbered steps  
 - Offer definitions on request  
 - Ask “Would you like to continue?” before each major step
+
+## FILE HANDLING CONVENTIONS
+- **User-Provided Files:** All files provided by the user for Gemini's processing will be located in the `0-Inbox/assistant/` directory.
+- **System-Provided Files:** All files generated or provided by Gemini for the user will be placed in the `0-Inbox/user/` directory.
