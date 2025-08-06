@@ -20,6 +20,10 @@ This session focused on significant improvements to the workspace's documentatio
     *   Optimized the transcript synthesis prompt.
     *   Categorized and moved the prompt to `2-Library/prompts/analysis-synthesis/conversation-synthesis.md`.
     *   Updated `prompts-index.md` to reflect the new prompt and category.
+*   **Prompt Library Reorganization:**
+    *   Implemented a flat, sequentially numbered structure for all prompts in `2-Library/prompts/`.
+    *   Updated `prompts-index.md` to reflect the new flat structure and list all 41 prompts.
+    *   Updated `2-Library/prompts/README.md` to direct users to `prompts-index.md`.
 
 ### Outcome:
 

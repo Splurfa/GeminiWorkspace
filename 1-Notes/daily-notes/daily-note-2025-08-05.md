@@ -2,6 +2,11 @@
 
 ## 1. Raw Sources for Processing (Your Daily Capture)
 
+*   **Source: Nate's Newsletter - Beyond the Chat: 12 Specialist AI Tools**
+    *   URL: https://natesnewsletter.substack.com/p/beyond-the-chat-12-specialist-ai
+    *   Briefing on 12 specialized AI tools.
+    *   Focuses on how these tools address limitations of general LLMs like ChatGPT.
+
 
 ## 2. Today's Structured Input (Your Daily Processing Hub)
 

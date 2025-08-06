@@ -49,6 +49,7 @@ For detailed guidance on specific aspects of this workspace, refer to the follow
 *   **Synthesis Protocol:** [[3-System/guides/synthesis-protocol.md]]
 *   **Captain's Log Protocol:** [[3-System/guides/captains-log-protocol.md]]
 *   **GitHub Synchronization Protocol:** [[3-System/guides/github-sync-protocol.md]]
+*   **Document Modification Protocol:** [[3-System/guides/document-modification-protocol.md]]
 
 ## VIII. Future Considerations
 
