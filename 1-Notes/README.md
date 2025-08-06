@@ -23,9 +23,9 @@ You can find the detailed structure and usage instructions for both templates in
 - **Projects:** All project-related notes and manifests are organized within the `projects/` subfolder. Refer to the `[[1-Notes/projects/README.md]]` for details on project organization.
 
 ### Tagging and Connecting Notes:
-All notes should be tagged according to the `[[note-template-protocol#tagging-protocol-your-cross-cutting-organization-system|Tagging Protocol]]` to enable powerful filtering and search.
+All notes should be tagged according to the `[[3-System/guides/tagging-protocol.md|Tagging Protocol]]` to enable powerful filtering and search.
 - **Inter-Note Connections:** Use `[[Title Case]]` wikilinks (e.g., `[[Common Thread Website Outline]]`) directly within your note content to create connections between related ideas and build your knowledge graph.
 
 ---
 
-**For detailed instructions on note formatting, tagging, and related notes, please refer to the comprehensive `[[note-template-protocol]]`.**
+**For detailed instructions on note formatting, templates, and tagging, please refer to the comprehensive guides: `[[3-System/guides/note-template-protocol.md]]` and `[[3-System/guides/tagging-protocol.md]]`.**

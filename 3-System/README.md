@@ -1,6 +1,6 @@
 # System
 
-**Purpose:** This directory serves as the "operating system" of your workspace. It holds the configuration, documentation, and logs that define *how* you and your AI collaborators work.
+**Purpose:** This directory serves as the "operating system" of your workspace. It holds the configuration, documentation, and logs that define *how* you and your AI collaborators work. For a comprehensive overview of the entire workspace, refer to the central workspace context document: [[3-System/guides/workspace-context.md]]
 
 ## Contents:
 

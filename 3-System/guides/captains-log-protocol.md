@@ -10,7 +10,7 @@ To ensure continuous context, shared understanding, and process memory across se
     2.  **User Action:** User saves this pre-synthesized summary as a Markdown file (e.g., `log-summary-YYYYMMDD-XX.md` or a descriptive name) into `0-Inbox/user/`.
     3.  **User Action:** User instructs Gemini by saying "update the captain's log".
     4.  **Gemini Action:** Gemini reads the provided summary file from `0-Inbox/user/`.
-    5.  **Gemini Action:** Gemini takes the provided summary content and uses it to create the new Captain's Log file in `3-System/session-logs/`. The filename will follow the convention `log-YYYYMMDD-XX-short-description.md`, where `XX` is a two-digit sequential number (01, 02, etc.) for logs created on that specific day. If a log file for the current date's primary session (`log-YYYYMMDD-01-*.md`) already exists, Gemini will overwrite that existing log file.
+    5.  **Gemini Action:** Gemini takes the provided summary content and uses it to create the new Captain's Log file in `3-System/session-logs/captains-log/`. The filename will follow the convention `log-YYYYMMDD-XX-short-description.md`, where `XX` is a two-digit sequential number (01, 02, etc.) for logs created on that specific day. If a log file for the current date's primary session (`log-YYYYMMDD-01-*.md`) already exists, Gemini will overwrite that existing log file.
     6.  **Gemini Action:** Gemini then deletes the input summary file from `0-Inbox/user/`.
     7.  **Gemini Action:** Gemini prompts the user for GitHub sync approval.
 
@@ -22,7 +22,7 @@ To ensure continuous context, shared understanding, and process memory across se
     2.  **User Action:** User saves this pre-synthesized summary as a Markdown file (e.g., `log-amendment-YYYYMMDD-XX.md` or a descriptive name) into `0-Inbox/user/`.
     3.  **User Action:** User instructs Gemini by saying "amend the log" or "append the log".
     4.  **Gemini Action:** Gemini reads the provided summary file from `0-Inbox/user/`.
-    5.  **Gemini Action:** Gemini identifies the log file with the highest sequential number (`XX`) for the current date in `3-System/session-logs/`.
+    5.  **Gemini Action:** Gemini identifies the log file with the highest sequential number (`XX`) for the current date in `3-System/session-logs/captains-log/`.
     6.  **Gemini Action:** Gemini appends the new summary content to the "Detailed Session Breakdown" section of the existing log file.
     7.  **Gemini Action:** Gemini re-reads the *entire* updated log file, re-synthesizes and overwrites *only* the "Key Outcomes & Decisions" section based on the full, updated log content.
     8.  **Gemini Action:** Gemini then deletes the input summary file from `0-Inbox/user/`.

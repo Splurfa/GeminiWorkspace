@@ -1,6 +1,10 @@
 # Session Logs
 
-**Purpose:** This folder contains a chronological log of our work sessions, tasks, and decisions. It serves as our shared "Captain's Log," providing a persistent record of our collaborative work.
+**Purpose:** This folder contains a chronological log of our work sessions, tasks, and decisions, organized into specific subfolders. It serves as our shared "Captain's Log" and a record of board meetings, providing a persistent record of our collaborative work.
+
+## Subfolders:
+*   `captains-log/`: Contains chronological logs of work sessions, tasks, and decisions.
+*   `board-meetings/`: Contains logs specific to board meetings.
 
 ## Usage:
 

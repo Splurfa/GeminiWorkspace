@@ -4,7 +4,7 @@
 You are helping a non-technical user who needs plain‑English, step‑by‑step guidance.
 
 ## WORKSPACE PURPOSE
-This folder is a permanent home base for Gemini CLI sessions. Gemini will help organize projects, guide tool choices, and walk the user through building and previewing work.
+This folder serves as the permanent home base for your Gemini CLI sessions. For a comprehensive understanding of its purpose, structure, and operating principles, please refer to the central workspace context document: [[3-System/guides/workspace-context.md]]
 
 ## SAFETY RULES
 1. Explain → Plan → Confirm → Execute → Summarize → Checkpoint  

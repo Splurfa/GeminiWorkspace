@@ -34,66 +34,9 @@ The daily note is a dynamic workspace designed for organizing and processing you
 
 Refer to that file for its specific structure and guidance on how to use its sections for input, active synthesis, emergent insights, parking, and daily reflection.
 
-## IV. Tagging Protocol: Your Cross-Cutting Organization System
+## IV. Tagging Protocol
 
-Tags are your flexible, cross-cutting organizational tool. They enable smart folder organization, rapid retrieval, and provide context across your notes, regardless of their physical location.
-
-### Format & Usage
-
-*   All tags must be in **lowercase**.
-*   Use **stacked tags** to combine independent concepts (e.g., `#business #strategy #client`).
-*   For multi-word individual tags, use **kebab-case** (e.g., `#common-thread`, `#personal-finance`). Do not use kebab-case to combine categories that should be separate tags.
-*   Tags should be applied consistently across all notes where relevant.
-
-### Conceptual Hierarchy & Specificity
-
-The 'hierarchy' of your tags is formed by the *combination* of independent, non-redundant tags you stack. Each additional tag adds specificity.
-
-Aim for **2-4 independent tags** per note to provide sufficient context without redundancy. For example:
-*   `#business #strategy #client` (combines three distinct concepts)
-*   `#personal #health #fitness #running` (combines four distinct concepts)
-
-Avoid redundancy: If `#business` and `#strategy` are separate tags, do not create a single tag like `#business-strategy`.
-
-### Approved Top-Level Categories & Initial Tag List
-
-The following are the **approved top-level categories** for your tags. All other tags should conceptually fall under one of these. This list is the starting point and can be expanded.
-
-*   `#personal`
-    *   `#health` (e.g., `#fitness`, `#nutrition`, `#mindfulness`)
-    *   `#finance` (e.g., `#investing`, `#budgeting`, `#income`)
-    *   `#household` (e.g., `#tasks`, `#maintenance`)
-    *   `#relationships` (e.g., `#family`, `#friends`)
-
-*   `#business`
-    *   `#strategy` (e.g., `#growth`, `#marketing`, `#sales`)
-    *   `#client` (e.g., `#acquisition`, `#retention`, `#project-name`)
-    *   `#operations` (e.g., `#process`, `#efficiency`)
-    *   `#consulting` (e.g., `#engagement`, `#deliverable`)
-
-*   `#project`
-    *   `#project-name` (e.g., `#common-thread`, `#behavior-support-app`, `#bx-os`) - *Specific project tags should be defined as needed, using kebab-case for multi-word project names.*
-
-*   `#system`
-    *   `#protocol` (e.g., `#note-taking`, `#tagging`)
-    *   `#template` (e.g., `#daily-note`, `#meeting-note`)
-    *   `#workflow` (e.g., `#discovery`, `#synthesis`)
-
-*   `#library`
-    *   `#prompt` (e.g., `#business-strategy`, `#creative-thinking`)
-    *   `#reference` (e.g., `#book`, `#article`, `#video`)
-    *   `#framework` (e.g., `#para`, `#eisenhower`)
-
-*   `#tooling`
-    *   `#ai` (e.g., `#llm`, `#automation`)
-    *   `#software` (e.g., `#obsidian`, `#gemini-cli`)
-    *   `#hardware`
-
-### Tag Management & Coherence
-
-*   **Strict Adherence:** Only tags listed in this `note-template-protocol.md` document are considered 'active' and approved for use. This document is the single source of truth for your tagging schema.
-*   **Adding New Tags:** If you identify a need for a new tag not currently in this protocol, please inform me. I will propose its addition and conceptual placement within the hierarchy for your approval. Once approved, I will update this document.
-*   **Deprecation/Migration:** If an old tag needs to be deprecated, it will be noted here, and a simple strategy (e.g., search and replace) will be suggested for migration in existing notes.
+For detailed guidance on tagging principles, approved tag hierarchy, and specific tagging strategies for different note types (e.g., daily notes vs. project notes), please refer to the dedicated Tagging Protocol document: [[3-System/guides/tagging-protocol.md]]
 
 ## V. Process for Formatting Notes
 
