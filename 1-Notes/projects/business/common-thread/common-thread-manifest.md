@@ -1,12 +1,15 @@
+---
+project_id: PROJ-COMMONTHREAD
+mission: To solve complex problems through modular thinking, combining operational insight with technical expertise to design practical tools that teams willingly adopt and use.
+status: ideation
+date_initiated: 
+last_updated: 2025-08-05
+tags: []
+---
 # Project Manifest: Common Thread
 
 ## Overview
-*   **Project ID:** PROJ-COMMONTHREAD
-*   **Mission:** To solve complex problems through modular thinking, combining operational insight with technical expertise to design practical tools that teams willingly adopt and use.
 *   **Description:** A consulting and development firm dedicated to helping businesses leverage AI for strategic growth and operational efficiency.
-*   **Status:** #status-ideation
-*   **Date Initiated:** 
-*   **Last Updated:** 2025-08-05
 
 ## Objectives
 *   Establish a solo consulting business, potentially partnered with Zach.

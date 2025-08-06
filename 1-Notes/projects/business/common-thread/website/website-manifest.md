@@ -1,12 +1,15 @@
+---
+project_id: PROJ-CT-WEB
+mission: To develop the official website for Common Thread, clearly communicating its identity, methodology, and vision.
+status: planning
+date_initiated: 
+last_updated: 2025-08-05
+tags: []
+---
 # Project Manifest: Common Thread Website
 
 ## Overview
-*   **Project ID:** PROJ-CT-WEB
-*   **Mission:** To develop the official website for Common Thread, clearly communicating its identity, methodology, and vision.
 *   **Description:** This project focuses on the development of the Common Thread company website, including content, design, and overall progress.
-*   **Status:** #status-planning
-*   **Date Initiated:** 
-*   **Last Updated:** 2025-08-05
 
 ## Objectives
 *   Finalize website messaging and structure.

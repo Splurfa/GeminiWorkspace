@@ -1,12 +1,15 @@
+---
+project_id: PROJ-BXOS
+mission: To develop a behavior tracking application (Behavioral OS) for Hillel Hebrew Academy.
+status: on-hold
+date_initiated: 
+last_updated: 2025-08-05
+tags: []
+---
 # Project Manifest: Behavior Support App
 
 ## Overview
-*   **Project ID:** PROJ-BXOS
-*   **Mission:** To develop a behavior tracking application (Behavioral OS) for Hillel Hebrew Academy.
 *   **Description:** A pilot project developing a behavior tracking application for Zach's school, Hillel Hebrew Academy.
-*   **Status:** #status-on-hold
-*   **Date Initiated:** 
-*   **Last Updated:** 2025-08-05
 
 ## Objectives
 *   Develop core functionalities for behavior tracking.
