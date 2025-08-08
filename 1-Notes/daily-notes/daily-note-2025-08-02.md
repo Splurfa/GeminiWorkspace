@@ -1,7 +1,10 @@
 ---
+note_title: Daily Note - 2025-08-02
 date: 2025-08-02
-tags: [business, personal, strategy, system, tooling, ai, finance, health, household, workflow, learning, common-thread, bx-os, archived-business-notes, archived-personal-notes, daily-note]
-related_notes: [[20250802-business-notes]], [[20250802-personal-notes]]
+tags: [strategy, system, tooling, ai, finance, health, household, workflow, learning, common-thread, bx-os, archived-business-notes, archived-personal-notes, daily-note]
+related_notes:
+  - "[[20250802-business-notes]]"
+  - "[[20250802-personal-notes]]"
 ---
 # Daily Note - 2025-08-02
 

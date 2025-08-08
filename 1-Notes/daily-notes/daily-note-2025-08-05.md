@@ -1,7 +1,11 @@
 ---
+note_title: Daily Note - 2025-08-05
 date: 2025-08-05
 tags: [strategy, system, bx-os, tooling, ai, board-meeting, nate-jones-briefing, daily-note]
-related_notes: [[board-meeting-2025-08-04-01]], [[board-meeting-2025-08-05-01]], [[nate-jones-ai-tools-briefing]]
+related_notes:
+  - "[[board-meeting-2025-08-04-01]]"
+  - "[[board-meeting-2025-08-05-01]]"
+  - "[[nate-jones-ai-tools-briefing]]"
 ---
 # Daily Note - 2025-08-05
 

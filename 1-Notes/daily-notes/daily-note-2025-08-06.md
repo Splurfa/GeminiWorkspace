@@ -1,7 +1,9 @@
 ---
+note_title: Daily Note - 2025-08-06
 date: 2025-08-06
 tags: [daily-note, ai, prompt-engineering, nate-jones]
-related_notes: [[contract-first-prompting]] # Assuming a note will be created for this content
+related_notes:
+  - "[[contract-first-prompting]]"
 ---
 # Daily Note - 2025-08-06
 

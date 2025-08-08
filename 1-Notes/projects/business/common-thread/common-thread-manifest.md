@@ -1,18 +1,18 @@
 ---
 project_id: PROJ-COMMONTHREAD
+project_name: Common Thread
 mission: To solve complex problems through modular thinking, combining operational insight with technical expertise to design practical tools that teams willingly adopt and use.
 status: Ideation
 date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
 tags:
-  - project
   - manifest
   - common-thread
   - ideation
 related_notes:
-  - [[ai-tooling]]
-  - [[consulting-strategy]]
-  - [[partnership-model]]
+  - "[[ai-tooling]]"
+  - "[[consulting-strategy]]"
+  - "[[partnership-model]]"
 ---
 # Project Manifest: Common Thread
 

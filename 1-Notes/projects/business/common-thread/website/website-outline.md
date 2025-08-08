@@ -1,8 +1,9 @@
 ---
-title: Website Outline
+note_title: Website Outline
 date: 2025-08-06
-tags: [project, common-thread, website, outline]
-related_notes: [[common-thread-manifest]]
+tags: [website, outline]
+related_notes:
+  - "[[common-thread-manifest]]"
 ---
 # Website Outline
 
