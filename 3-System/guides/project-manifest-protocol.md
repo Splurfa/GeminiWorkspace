@@ -23,10 +23,19 @@ Example Structure:
 
 ---
 project_id: PROJ-UNIQUE-IDENTIFIER
+project_name: Name of the Project
 mission: Concise statement of the project's purpose and overarching goal.
 status: Project Status (e.g., Active, Ideation, On-Hold, Completed, Archived, Blocked)
 date_initiated: YYYY-MM-DD
 last_updated: YYYY-MM-DD
+tags:
+  - project
+  - manifest
+  - unique-project-name
+  - status-tag-example # e.g., active, ideation, on-hold, completed, archived, blocked
+related_notes:
+  - [[related-note-one]]
+  - [[another-related-note]]
 ---
 # Project Manifest: [Project Name]
 
@@ -60,7 +69,7 @@ last_updated: YYYY-MM-DD
 *   **Integration with Daily Notes:** The "Next Actions (High-Level)" in the manifest serve as strategic pointers. Granular, day-to-day tasks related to these actions should be managed within your daily notes. Daily notes can link back to the project manifest for context.
 *   **Tagging:** All project-manifest.md files and related project notes must adhere to the [[tagging-protocol]].
     *   Always include relevant project tags (e.g., project, manifest, common-thread, bx-os, website).
-    *   Always include a status tag in the tags array (e.g., planning, active, on-hold, completed, archived, blocked). Multiple status tags can be used if applicable (e.g., active, blocked).
+    *   Always include a status tag in the tags list (e.g., planning, active, on-hold, completed, archived, blocked). Multiple status tags can be used if applicable (e.g., active, blocked).
 *   **Wikilinks:** Use [[kebab-case-filename]] wikilinks for all internal references to other notes or system documents.
 
 ## 5. Starting a New Project

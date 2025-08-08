@@ -8,6 +8,7 @@ This protocol outlines the principles and best practices for applying tags acros
 *   **Lowercase:** All tags must be in **lowercase**.
 *   **Kebab-Case:** For multi-word tags, use **kebab-case** (e.g., #multi-word-tag). This applies to individual tags that consist of multiple words.
 *   **No Slashes or Hyphens within a single tag:** Do NOT use slashes or hyphens within a single tag (e.g., avoid #tag/sub-tag or #tag-sub-tag). Use kebab-case for multi-word tags only.
+*   **No Redundant Tags:** Avoid adding tags that are already implied by the folder structure. For example, a note in `1-Notes/projects/business/` does not need the tags `#project` or `#business`.
 *   **Clarity & Specificity:** Tags should be clear, concise, and specific enough to be useful for retrieval.
 *   **Obsidian Compatibility:** Always ensure tags are recognized by Obsidian.
     *   **YAML Frontmatter Syntax:** When adding tags to the tags: field in YAML frontmatter, list them as plain strings without the # prefix (e.g., tags: [strategy, system, bx-os]).

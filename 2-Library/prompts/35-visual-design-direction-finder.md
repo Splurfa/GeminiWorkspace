@@ -1,12 +1,23 @@
 ---
-id: 35
 source: "Nate Jones"
 description: "Generate cohesive visual design directions with specific colors, fonts, and styling."
-tags: ["visual design", "UI/UX", "branding", "design system", "aesthetics"]
 date_added: "2025-08-02"
+tags:
+  - library
+  - prompts
+  - creative-writing
+  - visual-design
+  - ui-ux
+  - branding
+  - design-system
+  - aesthetics
+  - color-palette
+  - typography
+  - interaction-design
+related_notes:
+  - # No specific related notes identified at this time.
 ---
-
-## 35\. Visual Design Direction Finder
+## 35. Visual Design Direction Finder
 
 **Purpose:** Generate cohesive visual design directions with specific colors, fonts, and styling.
 
@@ -14,111 +25,109 @@ date_added: "2025-08-02"
 
 **Input needed:**
 
-* Project name/description  
-* Brand attributes (3-5 adjectives)  
-* Target audience  
-* Accessibility requirements
+*   Project name/description
+*   Brand attributes (3-5 adjectives)
+*   Target audience
+*   Accessibility requirements
 
 ---
 
-### **Your Input**
+### Your Input
 
-**Project:** \[Name and brief description\]
+**Project:** [Name and brief description]
 
-**Brand Attributes:** \[3-5 adjectives like "modern, warm, professional"\]
+**Brand Attributes:** [3-5 adjectives like "modern, warm, professional"]
 
-**Target Audience:** \[Demographics, preferences, context of use\]
+**Target Audience:** [Demographics, preferences, context of use]
 
-**Accessibility Requirements:** \[WCAG AA/AAA, specific needs\]
+**Accessibility Requirements:** [WCAG AA/AAA, specific needs]
 
-**Design Constraints:** \[Platform, technical limitations, brand guidelines\]
+**Design Constraints:** [Platform, technical limitations, brand guidelines]
 
 ---
 
-### **Instructions**
+### Instructions
 
 Create comprehensive design directions following these steps:
 
-#### **Step 1: Design Brief Summary**
+#### Step 1: Design Brief Summary
 
 Confirm understanding of project needs and constraints (2-3 sentences).
 
-#### **Step 2: Generate Color Palettes**
+#### Step 2: Generate Color Palettes
 
 Create exactly 3 distinct palettes:
 
-**Palette 1: \[Name reflecting mood\]**
+**Palette 1: [Name reflecting mood]**
 
-* **Primary:** \#HEX \- \[Color name\] \- Use for: \[Specific uses\]  
-* **Secondary:** \#HEX \- \[Color name\] \- Use for: \[Specific uses\]  
-* **Accent:** \#HEX \- \[Color name\] \- Use for: \[Specific uses\]  
-* **Neutral Dark:** \#HEX \- \[Color name\] \- Use for: \[Specific uses\]  
-* **Neutral Light:** \#HEX \- \[Color name\] \- Use for: \[Specific uses\]  
-* **Accessibility:** Contrast ratios between key pairs  
-* **Emotional Impact:** What this palette conveys  
-* **Best For:** When to use this palette
+*   **Primary:** #HEX - [Color name] - Use for: [Specific uses]
+*   **Secondary:** #HEX - [Color name] - Use for: [Specific uses]
+*   **Accent:** #HEX - [Color name] - Use for: [Specific uses]
+*   **Neutral Dark:** #HEX - [Color name] - Use for: [Specific uses]
+*   **Neutral Light:** #HEX - [Color name] - Use for: [Specific uses]
+*   **Accessibility:** Contrast ratios between key pairs
+*   **Emotional Impact:** What this palette conveys
+*   **Best For:** When to use this palette
 
-\[Repeat for Palettes 2 and 3\]
+[Repeat for Palettes 2 and 3]
 
-#### **Step 3: Typography Pairings**
+#### Step 3: Typography Pairings
 
 Provide 3 font combinations:
 
-**Pairing 1: \[Style name\]**
+**Pairing 1: [Style name]**
 
-* **Heading Font:** \[Font name\] \- Where to find: \[Google Fonts/Adobe/etc.\]  
-* **Body Font:** \[Font name\] \- Where to find: \[Source\]  
-* **Why They Work:** \[2-3 sentences on compatibility\]  
-* **Personality:** What they communicate  
-* **Usage Guidelines:** Size ratios, weight variations
+*   **Heading Font:** [Font name] - Where to find: [Google Fonts/Adobe/etc.]
+*   **Body Font:** [Font name] - Where to find: [Source]
+*   **Why They Work:** [2-3 sentences on compatibility]
+*   **Personality:** What they communicate
+*   **Usage Guidelines:** Size ratios, weight variations
 
-\[Repeat for Pairings 2 and 3\]
+[Repeat for Pairings 2 and 3]
 
-#### **Step 4: Micro-Interaction Patterns**
+#### Step 4: Micro-Interaction Patterns
 
 Define interaction design elements:
 
 **Button Behaviors**
 
-* Default state  
-* Hover effect  
-* Active/pressed state  
-* Disabled state  
-* Transition timing
+*   Default state
+*   Hover effect
+*   Active/pressed state
+*   Disabled state
+*   Transition timing
 
 **Loading States**
 
-* Skeleton screens  
-* Progress indicators  
-* Animation style
+*   Skeleton screens
+*   Progress indicators
+*   Animation style
 
 **Feedback Patterns**
 
-* Success messages  
-* Error states  
-* Tooltips  
-* Form validation
+*   Success messages
+*   Error states
+*   Tooltips
+*   Form validation
 
-#### **Step 5: Implementation Guide**
+#### Step 5: Implementation Guide
 
 Provide ready-to-use CSS:
 
-/\* CSS Variables for chosen direction */*  
- *:root {*  
- */* Colors */*  
- *\--primary: \#HEX;*  
- *\--secondary: \#HEX;*  
- */* ... rest of palette \*/
+/* CSS Variables for chosen direction */
+:root {
+/* Colors */
+  --primary: #HEX;
+  --secondary: #HEX;
+/* ... rest of palette */
 
-/\* Typography \*/  
- \--font-heading: 'Font Name', fallback;  
- \--font-body: 'Font Name', fallback;
+/* Typography */
+  --font-heading: 'Font Name', fallback;
+  --font-body: 'Font Name', fallback;
 
-/\* Spacing \*/  
- \--space-unit: 8px;
+/* Spacing */
+  --space-unit: 8px;
 
-/\* Transitions \*/  
- \--transition-base: 200ms ease;  
- }
-
----
+/* Transitions */
+  --transition-base: 200ms ease;
+}

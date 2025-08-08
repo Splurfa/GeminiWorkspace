@@ -1,11 +1,21 @@
 ---
-id: 40
 source: "Nate Jones"
 description: "Transform unstructured, stream-of-consciousness text into a coherent, well-organized piece while preserving all core ideas and insights."
-tags: ["writing", "organization", "communication", "structure", "idea generation"]
 date_added: "2025-08-02"
+tags:
+  - library
+  - prompts
+  - creative-writing
+  - organization
+  - communication
+  - structure
+  - idea-generation
+  - writing
+  - synthesis
+  - text-processing
+related_notes:
+  - # No specific related notes identified at this time.
 ---
-
 # Stream-of-Consciousness Structural Organization Prompt
 
 ## Primary Objective

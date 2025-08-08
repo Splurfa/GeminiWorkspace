@@ -17,7 +17,7 @@ Any stack built using this framework is composed of two distinct tiers that work
 
 To ensure AI coherence and system modularity, a specific file structure is required. This creates a "contextual scope" for each stack.
 
-* **Master Prompt Library:** A central repository (e.g., a /library folder) containing all 39 Essential Prompts. This serves as the "source of truth" and reference knowledge.  
+* **Master Prompt Library:** A central repository located at [[00-master-prompt-library]] containing all 41 Essential Prompts. This serves as the "source of truth" and reference knowledge.  
 * **Local Stack Folders:** For each new stack, a dedicated directory is created (e.g., /stacks/sandbox/).  
   * **Engineer File:** The instructions for the orchestrator are stored in a file named using the convention: \[stack\_name\]\_engineer.md (e.g., sandbox\_engineer.md).  
   * **Prompt Files:** The specific prompts needed for the stack are *copied* from the Master Library into this local folder and named using the convention: \[stack\_name\]\_prompt\_\[number\].md (e.g., sandbox\_prompt\_34.md).

@@ -4,8 +4,15 @@ mission: To solve complex problems through modular thinking, combining operation
 status: Ideation
 date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
-tags: [project, manifest, common-thread, ideation]
-related_notes: [[ai-tooling]], [[consulting-strategy]], [[partnership-model]]
+tags:
+  - project
+  - manifest
+  - common-thread
+  - ideation
+related_notes:
+  - [[ai-tooling]]
+  - [[consulting-strategy]]
+  - [[partnership-model]]
 ---
 # Project Manifest: Common Thread
 

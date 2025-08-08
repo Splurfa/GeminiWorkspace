@@ -14,10 +14,16 @@ This is the universal structure for all standard notes. It begins with YAML fron
 Example Structure:
 
 ---
-title: Example Note Title
+note_title: Example Note Title
 date: YYYY-MM-DD
 source: Optional Source Description
-related_notes: [[related-note-one]], [[related-note-two]]
+tags:
+  - tag-one
+  - tag-two
+  - tag-three
+related_notes:
+  - "[[related-note-one]]"
+  - "[[related-note-two]]"
 ---
 # Example Note Title
 
@@ -37,14 +43,27 @@ Refer to that file for its specific structure and guidance on how to use its sec
 
 ## IV. Tagging Protocol
 
-For detailed guidance on tagging principles, approved tag hierarchy, and specific tagging strategies for different note types (e.g., daily notes vs. project notes), please refer to the dedicated Tagging Protocol document: [[3-System/guides/tagging-protocol.md]]
+For detailed guidance on tagging principles, approved tag hierarchy, and specific tagging strategies for different note types (e.g., daily notes vs. project notes), please refer to the dedicated Tagging Protocol document: [[tagging-protocol]].
 
 ## V. Process for Formatting Notes
 
-1.  **Add H1 Title:** The first line of the note must be an H1 heading, indicated by a single hash symbol, that exactly matches the filename.
+1.  **Add H1 Title:** The first line of the note must be an H1 heading, indicated by a single hash symbol, that exactly matches the filename (e.g., `a-note-title.md` should have `# a-note-title` as its H1).
 2.  **Add Metadata (Inline Tags & Optional YAML):**
     *   Place inline tags directly within the note content (e.g., #tag-one #tag-two).
-    *   Optional: For general notes, you may still use a YAML frontmatter block for date, description, source, and related_notes if desired. Related notes can be listed inline (e.g., related_notes: [[note-a]], [[note-b]]) or stacked with line breaks, but tags should be inline.
+    *   Optional: For general notes, you may still use a YAML frontmatter block for date, description, source, tags, and related_notes.
+    *   **YAML List Syntax for Tags and Related Notes:**
+        *   For tags, use a hyphen followed by a space for each tag. Do NOT include the # symbol in the YAML front matter.
+        *   For related_notes, use a hyphen followed by a space for each wikilink. Use the exact filename (kebab-case) within the double brackets.
+
+    Example YAML for Tags and Related Notes:
+    ```yaml
+tags:
+  - general-note
+  - example-tag
+related_notes:
+  - [[another-example-note]]
+  - [[project-manifest-protocol]]
+    ```
 3.  **Write Content:** Add the body of the note below the metadata.
 4.  **Adjust Heading Hierarchy:** When copying content from one note to another, ensure that the heading levels (e.g., two hash symbols, three hash symbols) are adjusted to maintain a logical and consistent hierarchy within the *target* note. The top-level heading of the copied content should align with the appropriate sub-level in the new document.
 
@@ -54,4 +73,4 @@ For all internal references to other notes or guides within this workspace, use 
 
 ## VII. Scope of this Protocol
 
-This protocol primarily applies to general notes and daily notes. `README.md` files follow their own dedicated protocol: [[readme-protocol]].
+This protocol primarily applies to general notes and daily notes. README.md files follow their own dedicated protocol: [[readme-protocol]].

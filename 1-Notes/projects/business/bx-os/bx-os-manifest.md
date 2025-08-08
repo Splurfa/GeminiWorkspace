@@ -4,8 +4,15 @@ mission: To develop a behavior tracking application (Behavioral OS) for Hillel H
 status: In-Progress, Blocked
 date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
-tags: [project, manifest, bx-os, in-progress, blocked]
-related_notes: [[board-meeting-2025-08-04-01]], [[20250802-business-notes]]
+tags:
+  - project
+  - manifest
+  - bx-os
+  - in-progress
+  - blocked
+related_notes:
+  - [[board-meeting-2025-08-04-01]]
+  - [[20250802-business-notes]]
 ---
 # Project Manifest: Behavior Support App
 

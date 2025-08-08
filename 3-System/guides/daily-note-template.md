@@ -1,4 +1,5 @@
 ---
+note_title: Daily Note - YYYY-MM-DD
 date: YYYY-MM-DD
 tags: [daily-note]
 ---

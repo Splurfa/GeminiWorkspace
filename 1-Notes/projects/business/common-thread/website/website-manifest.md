@@ -4,8 +4,14 @@ mission: To develop the official website for Common Thread, clearly communicatin
 status: Planning
 date_initiated: YYYY-MM-DD # Placeholder for actual date
 last_updated: 2025-08-05
-tags: [project, manifest, common-thread, website, planning]
-related_notes: [[website-outline]]
+tags:
+  - project
+  - manifest
+  - common-thread
+  - website
+  - planning
+related_notes:
+  - [[website-outline]]
 ---
 # Project Manifest: Common Thread Website
 

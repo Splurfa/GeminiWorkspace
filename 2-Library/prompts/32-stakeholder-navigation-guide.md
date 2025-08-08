@@ -1,12 +1,21 @@
 ---
-id: 32
 source: "Nate Jones"
 description: "Analyze complex political situations and identify the best path forward."
-tags: ["stakeholder management", "negotiation", "conflict resolution", "organizational dynamics"]
 date_added: "2025-08-02"
+tags:
+  - library
+  - prompts
+  - analysis-strategy
+  - stakeholder-management
+  - negotiation
+  - conflict-resolution
+  - organizational-dynamics
+  - political-analysis
+  - strategic-communication
+related_notes:
+  - # No specific related notes identified at this time.
 ---
-
-## 32\. Stakeholder Navigation Guide
+## 32. Stakeholder Navigation Guide
 
 **Purpose:** Analyze complex political situations and identify the best path forward.
 
@@ -14,97 +23,97 @@ date_added: "2025-08-02"
 
 **Input needed:**
 
-* The messy context (emails, notes, background)  
-* Your role and authority  
-* Decision deadline  
-* Desired outcome
+*   The messy context (emails, notes, background)
+*   Your role and authority
+*   Decision deadline
+*   Desired outcome
 
 ---
 
-### **Your Input**
+### Your Input
 
-**Situation Context:** \[Paste all relevant emails, meeting notes, background \- be thorough\]
+**Situation Context:** [Paste all relevant emails, meeting notes, background - be thorough]
 
-**My Role:** \[Your position, authority level, reporting structure\]
+**My Role:** [Your position, authority level, reporting structure]
 
-**Decision Needed By:** \[Specific date and why\]
+**Decision Needed By:** [Specific date and why]
 
-**Desired Outcome:** \[What success looks like to you\]
+**Desired Outcome:** [What success looks like to you]
 
-**Constraints:** \[What you cannot do/change\]
+**Constraints:** [What you cannot do/change]
 
 ---
 
-### **Instructions**
+### Instructions
 
 Navigate this political situation through systematic analysis:
 
-#### **Step 1: Situation Summary**
+#### Step 1: Situation Summary
 
 First, I'll distill the situation into:
 
-* Core issue (2-3 sentences)  
-* Key tension points (3-5 bullets)  
-* Decision urgency level
+*   Core issue (2-3 sentences)
+*   Key tension points (3-5 bullets)
+*   Decision urgency level
 
-#### **Step 2: Map the Current Landscape**
+#### Step 2: Map the Current Landscape
 
 **Facts Everyone Agrees On:**
 
-* List 3-5 undisputed facts  
-* Note their implications
+*   List 3-5 undisputed facts
+*   Note their implications
 
 **Points of Disagreement:**
 
-* Issue 1: \[What\] → Sides: \[Who believes what\]  
-* Issue 2: \[What\] → Sides: \[Who believes what\] \[Continue as needed\]
+*   Issue 1: [What] → Sides: [Who believes what]
+*   Issue 2: [What] → Sides: [Who believes what] [Continue as needed]
 
-#### **Step 3: Create Stakeholder Matrix**
+#### Step 3: Create Stakeholder Matrix
 
 For each key person involved:
 
-**Stakeholder: \[Name \- Title\]**
+**Stakeholder: [Name - Title]**
 
-* **Power Level:** High/Medium/Low  
-* **Current Position:** What they want  
-* **Underlying Interests:** Why they want it  
-* **Influence Levers:** What motivates them  
-* **Relationship to You:** Ally/Neutral/Opponent  
-* **Key Pressure Points:** What they fear  
-* **Best Approach:** How to engage them
+*   **Power Level:** High/Medium/Low
+*   **Current Position:** What they want
+*   **Underlying Interests:** Why they want it
+*   **Influence Levers:** What motivates them
+*   **Relationship to You:** Ally/Neutral/Opponent
+*   **Key Pressure Points:** What they fear
+*   **Best Approach:** How to engage them
 
-\[Repeat for all stakeholders\]
+[Repeat for all stakeholders]
 
-#### **Step 4: Develop Strategic Options**
+#### Step 4: Develop Strategic Options
 
 Present exactly 3 paths forward:
 
-**Option 1: \[The Collaborative Path\]**
+**Option 1: [The Collaborative Path]**
 
-* **Specific Actions:** 5 concrete steps  
-* **Timeline:** When to do what  
-* **Pros:** 3 main benefits  
-* **Cons:** 3 main risks  
-* **Success Probability:** X%  
-* **Second-Order Effects:** What happens next
+*   **Specific Actions:** 5 concrete steps
+*   **Timeline:** When to do what
+*   **Pros:** 3 main benefits
+*   **Cons:** 3 main risks
+*   **Success Probability:** X%
+*   **Second-Order Effects:** What happens next
 
-\[Repeat for Options 2 and 3 with different strategies\]
+[Repeat for Options 2 and 3 with different strategies]
 
-#### **Step 5: Recommended Approach**
+#### Step 5: Recommended Approach
 
-**Recommendation:** \[Which option and why\]
+**Recommendation:** [Which option and why]
 
 **First 72 Hours Action Plan:**
 
-1. Hour 1-4: \[Immediate action\]  
-2. Day 1: \[What to accomplish\]  
-3. Day 2: \[Next steps\]  
-4. Day 3: \[Checkpoint and adjust\]
+1.  Hour 1-4: [Immediate action]
+2.  Day 1: [What to accomplish]
+3.  Day 2: [Next steps]
+4.  Day 3: [Checkpoint and adjust]
 
 **Risk Mitigation:**
 
-* If X happens, then Y  
-* Backup plan for resistance  
-* Exit strategy if needed
+*   If X happens, then Y
+*   Backup plan for resistance
+*   Exit strategy if needed
 
 ---

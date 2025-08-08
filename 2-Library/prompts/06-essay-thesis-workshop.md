@@ -1,12 +1,22 @@
 ---
-id: 6
 source: "Nate Jones"
 description: "Develops a sharp, defensible thesis through interactive questioning and exploration."
-tags: ["writing", "communication", "thesis", "essay", "argumentation"]
 date_added: "2025-08-02"
+tags:
+  - library
+  - prompts
+  - creative-writing
+  - writing
+  - thesis
+  - essay
+  - argumentation
+  - academic-writing
+  - critical-thinking
+  - questioning
+related_notes:
+  - # No specific related notes identified at this time.
 ---
-
-## 6\. Essay Thesis Workshop
+## 6. Essay Thesis Workshop
 
 **Purpose:** Develop a sharp, defensible thesis through interactive questioning and exploration.
 
@@ -14,75 +24,75 @@ date_added: "2025-08-02"
 
 **Input needed:**
 
-* Your essay topic  
-* Assignment requirements  
-* Initial thoughts/direction
+*   Your essay topic
+*   Assignment requirements
+*   Initial thoughts/direction
 
 ---
 
-### **Your Input**
+### Your Input
 
-**Essay Topic:** \[The subject or question you're addressing\]
+**Essay Topic:** [The subject or question you're addressing]
 
-**Requirements:** \[Length, format, audience, academic level\]
+**Requirements:** [Length, format, audience, academic level]
 
-**Initial Direction:** \[Your rough ideas or angle \- 1 paragraph\]
+**Initial Direction:** [Your rough ideas or angle - 1 paragraph]
 
-**Available Evidence:** \[Types of sources you have or can access\]
+**Available Evidence:** [Types of sources you have or can access]
 
 ---
 
-### **Instructions**
+### Instructions
 
 Help develop a strong thesis through this structured process:
 
-#### **Step 1: First, Ask Probing Questions**
+#### Step 1: First, Ask Probing Questions
 
 Before we develop thesis options, I need to understand your deeper thinking. Please answer these 5 questions:
 
-1. **Hidden Assumption:** What assumption about \[topic\] do most people make that you question?  
-2. **Personal Stakes:** Why does this topic matter to you personally?  
-3. **Tension Point:** What paradox or contradiction exists within this topic?  
-4. **Surprising Evidence:** What fact or example about this topic surprises people?  
-5. **Opposition:** What's the strongest argument against your initial position?
+1.  **Hidden Assumption:** What assumption about [topic] do most people make that you question?
+2.  **Personal Stakes:** Why does this topic matter to you personally?
+3.  **Tension Point:** What paradox or contradiction exists within this topic?
+4.  **Surprising Evidence:** What fact or example about this topic surprises people?
+5.  **Opposition:** What's the strongest argument against your initial position?
 
-#### **Step 2: Wait for Answers**
+#### Step 2: Wait for Answers
 
-\[After you provide answers, I will continue with thesis development\]
+[After you provide answers, I will continue with thesis development]
 
-#### **Step 3: Generate Three Thesis Options**
+#### Step 3: Generate Three Thesis Options
 
 Based on your answers, I'll provide exactly 3 thesis statements:
 
-**Thesis Option 1: \[The Analytical Angle\]**
+**Thesis Option 1: [The Analytical Angle]**
 
-* **Statement:** (25 words maximum)  
-* **Debate Strength:** High/Medium/Low  
-* **Why it works:** \[1 sentence\]  
-* **Best supporting evidence:** \[3 specific points\]  
-* **Main counterargument to address:** \[1 sentence\]
+*   **Statement:** (25 words maximum)
+*   **Debate Strength:** High/Medium/Low
+*   **Why it works:** [1 sentence]
+*   **Best supporting evidence:** [3 specific points]
+*   **Main counterargument to address:** [1 sentence]
 
-\[Repeat format for Options 2 and 3 with different angles\]
+[Repeat format for Options 2 and 3 with different angles]
 
-#### **Step 4: Selection Guidance**
+#### Step 4: Selection Guidance
 
 For each thesis, I'll evaluate:
 
-* **Evidence availability** (how much support you have)  
-* **Originality score** (how fresh the perspective is)  
-* **Scope manageability** (fits your requirements)  
-* **Passion alignment** (matches your interests)
+*   **Evidence availability** (how much support you have)
+*   **Originality score** (how fresh the perspective is)
+*   **Scope manageability** (fits your requirements)
+*   **Passion alignment** (matches your interests)
 
 ---
 
-### **Output Format**
+### Output Format
 
-The response will include:
+The interaction will proceed as:
 
-* My 5 Probing Questions (wait for your answers)  
-* Then: 3 Distinct Thesis Options  
-* Comparative Analysis  
-* Recommendation with reasoning  
-* Outline preview for chosen thesis
+1.  My 5 Probing Questions (wait for your answers)
+2.  Then: 3 Distinct Thesis Options
+3.  Comparative Analysis
+4.  Recommendation with reasoning
+5.  Outline preview for chosen thesis
 
 ---
