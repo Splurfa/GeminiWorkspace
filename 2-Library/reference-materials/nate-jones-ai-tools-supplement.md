@@ -1,8 +1,9 @@
 ---
-Source: https://natesnewsletter.substack.com/p/beyond-the-chat-12-specialist-ai
-Date: 2025-08-05
-Author: Nate Jones
-Related_Documents: [nate-jones-ai-tools-briefing.md]
+source: https://natesnewsletter.substack.com/p/beyond-the-chat-12-specialist-ai
+date: 2025-08-05
+author: Nate Jones
+related_documents:
+  - "[[nate-jones-ai-tools-briefing]]"
 ---
 
 # **Beyond ChatGPT: A Practical Reference**

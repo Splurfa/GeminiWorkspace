@@ -13,8 +13,7 @@ tags:
   - academic-writing
   - critical-thinking
   - questioning
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 6. Essay Thesis Workshop
 

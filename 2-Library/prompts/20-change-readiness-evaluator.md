@@ -13,8 +13,7 @@ tags:
   - life-transitions
   - risk-assessment
   - planning
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 20. Change Readiness Evaluator
 

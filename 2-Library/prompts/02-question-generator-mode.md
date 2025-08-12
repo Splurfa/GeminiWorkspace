@@ -12,8 +12,7 @@ tags:
   - critical-thinking
   - analysis
   - decision-making
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 2. Question Generator Mode
 

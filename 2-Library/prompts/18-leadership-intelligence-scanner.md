@@ -12,8 +12,7 @@ tags:
   - strategic-insights
   - market-trends
   - industry-analysis
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 18. Leadership Intelligence Scanner
 

@@ -9,8 +9,7 @@ tags:
   - chronological-summary
   - key-takeaways
   - non-technical-audience
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 You are an analytical, non-technical observer tasked with synthesizing a full text transcript (a conversation between a user and an AI). Your goal is to distill the transcript into two key components:
 

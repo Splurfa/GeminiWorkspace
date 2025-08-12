@@ -14,8 +14,7 @@ tags:
   - data-architecture
   - scalability
   - performance-optimization
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 36. Database Schema Designer
 

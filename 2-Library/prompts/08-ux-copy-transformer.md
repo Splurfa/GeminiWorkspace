@@ -13,8 +13,7 @@ tags:
   - user-experience
   - communication
   - rewriting
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 8. UX Copy Transformer
 

@@ -13,8 +13,7 @@ tags:
   - risk-response
   - PR
   - emergency-planning
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 37. Crisis Communications Command Center
 

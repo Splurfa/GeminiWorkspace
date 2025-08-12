@@ -12,8 +12,7 @@ tags:
   - skill-breakdown
   - practice
   - self-improvement
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 27. Skill Breakdown Blueprint
 

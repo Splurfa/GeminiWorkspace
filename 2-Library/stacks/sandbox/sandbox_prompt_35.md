@@ -1,4 +1,5 @@
 ---
+note_title: "35. Visual Design Direction Finder"
 id: 35
 source: "Nate Jones"
 description: "Generate cohesive visual design directions with specific colors, fonts, and styling."

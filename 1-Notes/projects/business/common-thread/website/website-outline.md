@@ -21,23 +21,23 @@ By combining operational insight with technical expertise, we design practical t
 
 We build momentum by starting small, proving value, and expanding thoughtfully.
 
-### Understand 🔍
+### Understand
 
 We observe how work actually happens to uncover real, underlying challenges.
 
-### Prioritize 🎯
+### Prioritize
 
 We identify the most impactful and achievable issue to address first — ensuring quick, meaningful wins.
 
-### Create 🛠️
+### Create
 
 We develop simple, effective solutions that integrate naturally into existing workflows.
 
-### Evaluate 📈
+### Evaluate
 
 We measure outcomes — like faster response times and reduced backlogs — to confirm meaningful improvement.
 
-### Expand 🌱
+### Expand
 
 Each success becomes a stable building block. Over time, we shape a smart, cohesive ecosystem.
 
@@ -45,19 +45,19 @@ Each success becomes a stable building block. Over time, we shape a smart, cohes
 
 ## Our Guiding Principles
 
-### 💬 Human-Centered
+### Human-Centered
 
 Solutions are designed alongside the people who use them every day.
 
-### 🔁 Incremental
+### Incremental
 
 Each step is small enough to implement quickly and flexible enough to refine as needed.
 
-### 🔗 Integrated
+### Integrated
 
 Every solution contributes to a unified, intelligent system that grows over time.
 
-### 📊 Measurable
+### Measurable
 
 We define success with visible, trustworthy outcomes everyone can track and believe in.
 
@@ -67,15 +67,15 @@ We define success with visible, trustworthy outcomes everyone can track and beli
 
 Real examples of our method in practice:
 
-### 🏫 Private K–8 School
+### Private K–8 School
 
 **Focus:** Enhancing consistency and accountability in behavior tracking and follow-up.
 
-### 🩺 Clinical Services Provider
+### Clinical Services Provider
 
 **Focus:** Simplifying documentation and assessment workflows to support clinicians.
 
-### 🏢 Multi-Location Operations
+### Multi-Location Operations
 
 **Focus:** Increasing clarity and efficiency across complex, multi-site organizations.
 
@@ -92,13 +92,13 @@ It’s not just what *can* be built — it’s what *should* be built, based on 
 
 ## Our Team
 
-### 🧩 Zach – Practice & Operations
+### Zach – Practice & Operations
 
 Zach brings deep experience in behavioral systems and a grounded understanding of day-to-day operational needs.
 
 He ensures solutions are practical, realistic, and aligned with how work really happens.
 
-### ⚙️ Derek – Systems & Development
+### Derek – Systems & Development
 
 Derek provides systems thinking and modular design expertise.
 
@@ -121,14 +121,14 @@ Each solution becomes a modular building block that fits into a larger, smarter 
 
 **What sets us apart:**
 
-📏 Clear metrics.
+Clear metrics.
 
-🔍 Transparent outcomes.
+Transparent outcomes.
 
-🤝 Trust earned through results — not promises.
+Trust earned through results — not promises.
 
 ---
 
-**Common Thread** 🧵
+**Common Thread**
 
 *Clear thinking. Practical solutions. Lasting connections.*

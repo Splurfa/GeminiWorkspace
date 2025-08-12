@@ -13,8 +13,7 @@ tags:
   - structure
   - effectiveness
   - communication
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 7. Prompt Improver
 

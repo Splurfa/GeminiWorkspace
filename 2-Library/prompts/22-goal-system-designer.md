@@ -14,8 +14,7 @@ tags:
   - tracking
   - accountability
   - time-management
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 22. Goal System Designer
 

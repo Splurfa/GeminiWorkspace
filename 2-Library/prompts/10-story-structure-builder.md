@@ -12,8 +12,7 @@ tags:
   - communication
   - structure
   - emotional-arc
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 10. Story Structure Builder
 

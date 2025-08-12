@@ -13,8 +13,7 @@ tags:
   - writing
   - synthesis
   - text-processing
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 # Stream-of-Consciousness Structural Organization Prompt
 

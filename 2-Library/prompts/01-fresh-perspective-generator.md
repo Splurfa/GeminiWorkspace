@@ -12,8 +12,7 @@ tags:
   - innovation
   - perspective-generation
   - reframing
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 1. Fresh Perspective Generator
 

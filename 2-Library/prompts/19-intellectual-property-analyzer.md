@@ -15,8 +15,7 @@ tags:
   - innovation
   - legal
   - business-strategy
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 19. Intellectual Property Analyzer
 

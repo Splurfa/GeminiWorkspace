@@ -13,8 +13,7 @@ tags:
   - business-strategy
   - market-research
   - product-development
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 14. Competitive Intelligence Scanner
 

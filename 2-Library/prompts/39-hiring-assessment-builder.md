@@ -13,8 +13,7 @@ tags:
   - talent-acquisition
   - job-performance
   - interview-process
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 39. Hiring Assessment Builder
 

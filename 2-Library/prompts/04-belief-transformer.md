@@ -12,8 +12,7 @@ tags:
   - mindset
   - personal-growth
   - cognitive-restructuring
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 4. Belief Transformer
 

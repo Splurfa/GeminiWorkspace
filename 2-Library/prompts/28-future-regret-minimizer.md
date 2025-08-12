@@ -12,8 +12,7 @@ tags:
   - future-self
   - values
   - authenticity
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 28. Future Regret Minimizer
 

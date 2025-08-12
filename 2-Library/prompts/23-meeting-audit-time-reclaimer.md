@@ -12,8 +12,7 @@ tags:
   - efficiency
   - calendar-optimization
   - workflow-improvement
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 23. Meeting Audit & Time Reclaimer
 

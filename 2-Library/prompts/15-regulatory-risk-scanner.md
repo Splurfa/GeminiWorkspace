@@ -13,8 +13,7 @@ tags:
   - legal
   - governance
   - market-entry
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 15. Regulatory Risk Scanner
 

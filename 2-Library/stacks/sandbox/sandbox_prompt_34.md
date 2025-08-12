@@ -1,4 +1,5 @@
 ---
+note_title: "34. Pre-Code Planning Canvas"
 id: 34
 source: "Nate Jones"
 description: "Think through all the unknowns and risks before writing a single line of code."

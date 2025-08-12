@@ -14,8 +14,7 @@ tags:
   - color-palette
   - typography
   - interaction-design
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 35. Visual Design Direction Finder
 

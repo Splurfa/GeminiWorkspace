@@ -13,8 +13,7 @@ tags:
   - self-assessment
   - well-being
   - burnout-prevention
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 30. Energy Audit Protocol
 

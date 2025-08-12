@@ -13,8 +13,7 @@ tags:
   - personal-growth
   - development
   - feedback
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 29. Leadership Style Diagnostics
 

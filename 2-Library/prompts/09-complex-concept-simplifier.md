@@ -13,8 +13,7 @@ tags:
   - complex-concepts
   - analogy
   - clarity
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 9. Complex Concept Simplifier
 

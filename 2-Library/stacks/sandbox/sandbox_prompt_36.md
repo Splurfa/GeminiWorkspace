@@ -1,4 +1,5 @@
 ---
+note_title: "36. Database Schema Designer"
 id: 36
 source: "Nate Jones"
 description: "Design database structures that match your product requirements."

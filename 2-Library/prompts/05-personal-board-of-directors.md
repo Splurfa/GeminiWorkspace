@@ -12,8 +12,7 @@ tags:
   - personal-growth
   - self-development
   - strategic-guidance
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 5. Personal Board of Directors
 

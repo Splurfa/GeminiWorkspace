@@ -12,8 +12,7 @@ tags:
   - problem-solving
   - learning-from-failures
   - process-improvement
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 38. Incident Analysis System
 

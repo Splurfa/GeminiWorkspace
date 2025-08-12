@@ -13,8 +13,7 @@ tags:
   - business-strategy
   - legal-risk
   - competitive-analysis
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 16. Brand Name Availability Checker
 

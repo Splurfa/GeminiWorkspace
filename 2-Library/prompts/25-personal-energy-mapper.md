@@ -13,8 +13,7 @@ tags:
   - scheduling
   - workflow-optimization
   - self-awareness
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 25. Personal Energy Mapper
 

@@ -13,8 +13,7 @@ tags:
   - skill-development
   - knowledge-acquisition
   - self-study
-related_notes:
-  - # No specific related notes identified at this time.
+related_notes: []
 ---
 ## 26. Research Launch Pad
 

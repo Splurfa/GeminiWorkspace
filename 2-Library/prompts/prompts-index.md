@@ -43,6 +43,8 @@ For the full text of all prompts, please refer to the [[00-master-prompt-library
 *   38-Incident Analysis System ([[38-incident-analysis-system]])
 *   39-Hiring Assessment Builder ([[39-hiring-assessment-builder]])
 *   41-Chat Transcript Synthesis ([[41-chat-transcript-synthesis]])
+*   42-Contract-First Clarifying Intent ([[42-contract-first-clarifying-intent]])
+*   43-Deep Thought ([[43-deep-thought]])
 
 ### Productivity & Organization
 
