@@ -8,7 +8,7 @@ To provide a clear, non-interactive method for backing up the local workspace to
 
 ## II. Trigger
 
-This protocol is triggered when the user explicitly requests a "sync to GitHub" or similar phrasing (e.g., "push to GitHub," "backup to GitHub") outside of the Captain's Log update process.
+This protocol is triggered when the user explicitly requests a "sync to GitHub" or similar phrasing (e.g., "push to GitHub," "backup to GitHub").
 
 ## III. Automated Synchronization Process
 
@@ -24,7 +24,7 @@ Upon receiving a trigger, Gemini will perform the following sequence of Git comm
     ```bash
     git commit -m "Automated backup sync: YYYY-MM-DD HH:MM:SS - [Brief summary of session work]"
     ```
-    *   Gemini will automatically generate a commit message including a timestamp and a brief, inferred summary of the work completed in the current session. This commit message will be concise and focused on the backup purpose.
+    *   Gemini will automatically generate a commit message including a timestamp and a descriptive summary of the work completed in the current session. This commit message serves as the primary session log, detailing key actions, decisions, and outcomes.
 
 3.  **Push to Remote Repository:**
     ```bash
@@ -40,6 +40,6 @@ It is critical to understand that the local file system remains the authoritativ
 
 This synchronization process is designed to be non-interactive. The user's command to "sync to GitHub" is considered explicit approval for the `git add`, `git commit`, and `git push` operations. Gemini will not prompt for further confirmation for these specific steps when this protocol is triggered.
 
-## VI. Integration with Captain's Log Protocol
+## VI. Integration with Simplified Session Logging
 
-When a Captain's Log entry is created or amended (as per `captains-log-protocol.md`), Gemini will *still* prompt the user for GitHub sync approval (as per `captains-log-protocol.md` sections 1.7 and 2.9). If approved in that context, the same `git add`, `git commit`, `git push` sequence will be executed. This `github-sync-protocol.md` defines the *mechanics* of that sync.
+This protocol works in conjunction with the [[simplified-session-log-protocol]]. The commit messages generated here serve as the primary session log, and any content in the optional internal session summary file will be included in the commit.

@@ -4,7 +4,7 @@
 
 ## Available Guides:
 
-*   [[captains-log-protocol]]: Guidelines for maintaining session logs.
+*   [[simplified-session-log-protocol]]: Guidelines for maintaining session logs.
 *   [[note-template-protocol]]: Instructions for standardized note-taking and tagging.
 *   [[prompt-engineer-architecture]]: Describes the structure and principles for designing effective prompts.
 *   [[multi-prompt-stack-blueprint]]: Outlines the structure and usage of multi-prompt stacks.

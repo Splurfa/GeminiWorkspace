@@ -19,23 +19,27 @@ A project-manifest.md file is designed to:
 
 Each project-manifest.md file should adhere to the following Markdown structure. It begins with YAML frontmatter, followed by the H1 title, and then various sections for project details.
 
-Example Structure:
+Each project-manifest.md file should adhere to the following Markdown structure. It begins with YAML frontmatter that includes the Universal Metadata Schema (from [[note-template-protocol]]) and adds several project-specific fields.
+
+**Example Structure:**
 
 ---
-project_id: PROJ-UNIQUE-IDENTIFIER
-project_name: Name of the Project
-mission: Concise statement of the project's purpose and overarching goal.
-status: Project Status (e.g., Active, Ideation, On-Hold, Completed, Archived, Blocked)
-date_initiated: YYYY-MM-DD
-last_updated: YYYY-MM-DD
+# Universal Metadata (from [[note-template-protocol]])
+title: "Project Manifest: [Project Name]"
+date: YYYY-MM-DD # This should be the date the manifest was last updated
+status: [Active | Ideation | On-Hold | Completed | Archived | Blocked]
 tags:
   - project
   - manifest
-  - unique-project-name
-  - status-tag-example # e.g., active, ideation, on-hold, completed, archived, blocked
+  - [unique-project-name] # e.g., common-thread, bx-os
 related_notes:
-  - [[related-note-one]]
-  - [[another-related-note]]
+  - "[[related-note-one]]"
+  - "[[another-related-note]]"
+
+# Project-Specific Metadata
+project_id: PROJ-UNIQUE-IDENTIFIER
+mission: "Concise statement of the project's purpose and overarching goal."
+date_initiated: YYYY-MM-DD
 ---
 # Project Manifest: [Project Name]
 

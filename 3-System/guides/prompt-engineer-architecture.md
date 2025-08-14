@@ -41,3 +41,10 @@ This system is designed for a precise, "human-in-the-loop" orchestration process
 3. **Generate & Execute:** The Engineer generates input for the first prompt in its local folder (e.g., sandbox\_prompt\_34.md). The user runs this in a new terminal.  
 4. **Feedback Loop:** The user pastes the output from the execution terminal back into the Engineer's terminal.  
 5. **Continue Cycle:** The Engineer processes the output and generates the input for the next prompt in its sequence. The user repeats the process until the stack is complete.
+
+#### **5. Relationship to Project-Specific Prompts**
+
+This architecture describes the framework for complex, multi-stage prompt workflows (stacks) orchestrated by a dedicated Prompt Engineer. For simpler, individual prompts that are specific to a particular project and are not part of a multi-step orchestrated sequence, please refer to the `_prompts` sub-folder structure defined in the [[project-manifest-protocol]].
+
+*   **Prompt Engineer Architecture:** Designed for automated or semi-automated execution of a sequence of prompts to achieve a complex outcome. Prompts are copied into a local stack folder and orchestrated by an `engineer.md` file.
+*   **Project-Specific Prompts:** Designed for individual, standalone prompts that are relevant to a specific project. These are stored in the project's `_prompts` sub-folder and are typically executed manually or as single-shot operations.

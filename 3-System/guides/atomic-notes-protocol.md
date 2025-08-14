@@ -13,7 +13,7 @@ The synthesis process consists of five main steps, moving from a single source d
 Before synthesis can begin, the source material must be processed and stored in a standardized format within your library.
 
 1.  **Convert to Markdown:** Convert the source material (e.g., from RTF, PDF, web page) into a clean Markdown file.
-2.  **Add Metadata:** Add a YAML frontmatter block to the top of the Markdown file, including a `Title`, `Author`, `Source`, the `Date Added`, and relevant `Tags` (e.g., `#reference-material`, `#synthesis-candidate`).
+2.  **Add Metadata:** Add a YAML frontmatter block to the top of the Markdown file, following the [[note-template-protocol]]. The `status` should be set to `evergreen` and the `source` field should be filled out.
 3.  **Store in Library:** Save the formatted Markdown file to the `2-Library/reference-materials/` directory.
 
 ### Step 2: Create the Synthesis Hub Note
@@ -21,12 +21,11 @@ Before synthesis can begin, the source material must be processed and stored in 
 This note is the central map for the synthesized content.
 
 1.  **Create the Hub Note:** In the relevant project folder (e.g., `1-Notes/projects/business/bx-os/`), create a new note named `[source-title]-synthesis-hub.md`.
-2.  **Structure the Hub Note:** The hub note must contain:
-    *   A YAML frontmatter block with a `Title`, `Date`, and `Tags` (e.g., `#synthesis-hub`, `#project-tag`).
-    *   A brief **Summary** of the source material's core thesis.
-    *   A section for **Key Concepts**, which will contain wikilinks to the atomic notes.
-    *   A section for **Actionable Techniques/Prompts** (if applicable), also containing wikilinks.
-    *   A link to the full source article in the library.
+2.  **Structure the Hub Note:** The hub note must follow the [[note-template-protocol]].
+    *   The `title` should be `[Source Title] - Synthesis Hub`.
+    *   The `status` should be `evergreen`.
+    *   The `child_notes` field will be used to link to the newly created atomic notes.
+    *   The body of the note should contain a brief **Summary** of the source material's core thesis, a section for **Key Concepts**, and a link to the full source article in the library.
 
 ### Step 3: Identify and Extract Atomic Concepts
 
@@ -42,13 +41,11 @@ For each concept identified, create a new, separate Markdown file.
 2.  **Location:**
     *   Actionable templates or prompts go in `2-Library/prompts/`.
     *   General concepts, frameworks, or reference-style notes go in `2-Library/reference-materials/`.
-3.  **Structure of an Atomic Note:** Each atomic note should follow this template:
-    *   **YAML Frontmatter:** Include a `Title` and relevant `Tags` (e.g., `#prompt-technique`, `#mental-model`).
-    *   **H1 Title:** An H1 title that matches the filename.
-    *   **Core Definition:** A brief, one-to-two sentence definition of the concept.
-    *   **Detailed Explanation:** Use bullet points, blockquotes, and examples to explain the concept in detail, drawing from the source material.
-    *   **Actionable Advice (if applicable):** Include a "How to Use It" or "Example" section with practical, copy-paste-ready templates or instructions.
-    *   **Link Back:** End the note with a wikilink back to the Synthesis Hub note (e.g., `[[../../1-Notes/projects/business/bx-os/nate-jones-article-synthesis-hub.md|Back to Synthesis Hub]]`).
+3.  **Structure of an Atomic Note:** Each atomic note must follow the [[note-template-protocol]].
+    *   The `title` should be the name of the concept.
+    *   The `status` should be `evergreen`.
+    *   The `parent_note` field must link back to the Synthesis Hub note.
+    *   The body of the note should contain a **Core Definition**, a **Detailed Explanation**, and **Actionable Advice** (if applicable).
 
 ### Step 5: Inter-link the Network
 

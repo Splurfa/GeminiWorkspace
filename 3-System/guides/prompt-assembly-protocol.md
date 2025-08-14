@@ -25,3 +25,11 @@ To produce a clean, runnable, production-ready prompt file based on user-provide
     *   The assistant will then notify the user of the file's creation and location.
 
 This protocol ensures a consistent, error-free process that delivers a ready-to-use prompt for the user, respecting the distinction between a template and a runnable instance.
+
+## 6. Post-Execution: Storing Deployed Prompts
+
+This protocol focuses on preparing a prompt for *execution*. Once a prompt has been successfully executed and is considered "deployed" for a specific project (i.e., its output has been used or integrated into a project), it should be moved from the `0-Inbox/assistant/` directory to the relevant project's `_prompts` sub-folder.
+
+*   **Location:** `1-Notes/projects/[project-path]/_prompts/`
+*   **Naming Convention:** Follow the project's established naming convention for deployed prompts (e.g., `YYYY-MM-DD-prompt-name.md`). **For outputs related to a deployed prompt, the filename should match the prompt's core name, with `-output.md` as the suffix (e.g., `YYYY-MM-DD-prompt-name-output.md`). Always default to the prompt's official name (from the library) for the core filename.**
+*   **Metadata:** Ensure the deployed prompt's metadata adheres to the universal schema defined in the [[note-template-protocol]], including linking to its `related_output` and setting its `status` to `deployed`.

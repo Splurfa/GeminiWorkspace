@@ -47,7 +47,7 @@ For detailed guidance on specific aspects of this workspace, refer to the follow
 *   **Project Manifest Protocol:** [[3-System/guides/project-manifest-protocol.md]]
 *   **Prompt Assembly Protocol:** [[3-System/guides/prompt-assembly-protocol.md]]
 *   **Synthesis Protocol:** [[3-System/guides/synthesis-protocol.md]]
-*   **Captain's Log Protocol:** [[3-System/guides/captains-log-protocol.md]]
+*   **Simplified Session Log Protocol:** [[3-System/guides/simplified-session-log-protocol.md]]
 *   **GitHub Synchronization Protocol:** [[3-System/guides/github-sync-protocol.md]]
 *   **Document Modification Protocol:** [[3-System/guides/document-modification-protocol.md]]
 

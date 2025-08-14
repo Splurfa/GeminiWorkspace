@@ -29,3 +29,11 @@ The AI agent will leverage the `40-idea-organization-prompt.md` from the `30_lib
 ## 5. Output Presentation
 
 The synthesized output will be presented in a clear, concise, and actionable format, guiding the user on how to further refine and integrate their daily note content.
+
+## 6. Stage 2: Optional Atomic Deconstruction
+
+After a daily note has been synthesized using the process above, you can choose to take it one step further by atomizing its contents. This powerful next step deconstructs the daily note into a network of interconnected atomic notes, fully integrating the day's most valuable insights into your permanent knowledge base.
+
+This process is not automatic. It should be triggered when you feel a daily note is particularly rich with ideas that deserve to be preserved and connected.
+
+**For the detailed workflow, see the [[daily-note-atomization-protocol]].**

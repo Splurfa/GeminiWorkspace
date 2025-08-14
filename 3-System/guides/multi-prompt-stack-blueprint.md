@@ -74,3 +74,10 @@ This blueprint provides a general framework. Individual stacks (e.g., the sandbo
 ## 6. Adherence to System Protocols
 
 All stack-related documentation, including this blueprint and specific stack implementation files (e.g., `engineer.md`), must adhere to relevant system-wide guidelines. This ensures consistency and discoverability across your entire knowledge base.
+
+## 7. Relationship to Project-Specific Prompts
+
+This blueprint describes the architecture for complex, multi-stage prompt workflows (stacks). For simpler, individual prompts that are specific to a particular project and are not part of a multi-step orchestrated sequence, please refer to the `_prompts` sub-folder structure defined in the [[project-manifest-protocol]].
+
+*   **Multi-Prompt Stacks:** Designed for automated or semi-automated execution of a sequence of prompts to achieve a complex outcome. Prompts are copied into a local stack folder and orchestrated by an `engineer.md` file.
+*   **Project-Specific Prompts:** Designed for individual, standalone prompts that are relevant to a specific project. These are stored in the project's `_prompts` sub-folder and are typically executed manually or as single-shot operations.

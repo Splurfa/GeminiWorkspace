@@ -23,7 +23,7 @@ This framework categorizes tags into three core pillars, each serving a distinct
 *   **Purpose:** Describe the primary subject matter or domain of the content. These are the high-level themes.
 *   **Placement:** Primarily in **YAML Frontmatter** for the overall note's themes. Can be used **inline** if a specific section introduces a new, distinct subject.
 *   **Characteristics:** Broad, evergreen, consistent.
-*   **Examples:** #strategy, #system, #tooling, #ai, #business, #personal, #finance, #health, #learning, #workflow, #protocol, #framework, #marketing, #operations, #sales, #consulting, #library, #project.
+*   **Examples:** #strategy, #system, #tooling, #ai, #business, #personal, #finance, #health, #learning, #workflow, #protocol, #framework, #marketing, #operations, #sales, #consulting, #library, #project, #prompt.
 
 ### B. Content/Thought Type Tags (The "How")
 
@@ -38,6 +38,18 @@ This framework categorizes tags into three core pillars, each serving a distinct
 *   **Placement:** Can be in **YAML Frontmatter** for project manifests or notes primarily about an entity. **Crucially, for Daily Notes, use in Frontmatter if the entity represents a primary input or defining event for the day's content.** Often **inline** when an entity is mentioned within a broader note.
 *   **Characteristics:** Specific, often proper nouns or unique identifiers.
 *   **Examples:** #bx-os, #common-thread, #board-meeting, #nate-jones, #lovable, #supabase, #client, #family, #friends, #hillel-academy.
+
+### D. Status Tags (The "When/Lifecycle")
+
+*   **Purpose:** Describe the lifecycle stage or maturity of a note. This is handled by the `status` field in the YAML frontmatter.
+*   **Placement:** Exclusively in the `status:` field in the YAML frontmatter.
+*   **Characteristics:** Describes the note's current state in a workflow.
+*   **Approved Statuses:**
+    *   `evergreen`: For core, stable concepts.
+    *   `fleeting`: For quick, undeveloped thoughts.
+    *   `draft`: For work in progress.
+    *   `in-review`: For notes ready for review.
+    *   `completed`: For finished notes.
 
 ## III. Tagging Specific Note Types
 

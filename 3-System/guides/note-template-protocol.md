@@ -1,76 +1,58 @@
-# Note Template & Tagging Protocol
+# Note Template & Metadata Protocol
 
-This protocol outlines the standardized method for creating and formatting notes. Its purpose is to ensure consistency, facilitate organization, and support your discovery and synthesis workflow.
+This protocol outlines the standardized method for creating and formatting notes. Its purpose is to ensure consistency, facilitate organization, and support a scalable and interconnected knowledge graph.
 
-## I. Core Principles
+## I. Universal Metadata Schema
 
-1.  **Wikilinks for Inter-Note Connections:** For linking *between* different notes or to broader topics, use the [[kebab-case-filename]] wikilink format. This is for building your knowledge graph across multiple documents. Crucially, wikilinks should be formatted without any surrounding backticks or apostrophes, or any other characters that might interfere with Obsidian's recognition.
-2.  **Inline Stacked Tags for Classification:** Tags are for classification and cross-cutting organization. Use multiple, simple, single-word tags stacked together directly within the note content (e.g., #business #strategy #client). We do NOT use slashes or hyphens within a single tag. Crucially, inline tags should be formatted without any surrounding backticks or apostrophes, or any other characters that might interfere with Obsidian's recognition.
+All notes in this workspace (with a few exceptions listed in Section IV) MUST begin with a YAML frontmatter block that adheres to the following universal schema. This is the single source of truth for note metadata.
 
-## II. The General Note Template
-
-This is the universal structure for all standard notes. It begins with YAML frontmatter, followed by the H1 title, a brief summary, optional source and date, inline tags, and then the main content.
-
-Example Structure:
-
+```yaml
 ---
-note_title: Example Note Title
+title: "Clear and Descriptive Title of the Note"
 date: YYYY-MM-DD
-source: Optional Source Description
+status: [evergreen | fleeting | draft | in-review | completed]
 tags:
   - tag-one
   - tag-two
-  - tag-three
+source: "URL or reference to the original source (optional)"
 related_notes:
-  - "[[related-note-one]]"
-  - "[[related-note-two]]"
+  - "[[link-to-a-related-note]]"
+parent_note: "[[link-to-the-parent-note]]"
+child_notes:
+  - "[[link-to-a-child-note]]"
+  - "[[another-child-note]]"
 ---
-# Example Note Title
+```
 
-This is a brief, one-sentence summary of the note's core idea.
+### Field Definitions:
 
-#tag-one #tag-two #tag-three #tag-four
+*   **`title`**: The official title of the note. Should be clear and descriptive.
+*   **`date`**: The date the note was created or last significantly updated (YYYY-MM-DD).
+*   **`status`**: The current lifecycle stage of the note.
+    *   `evergreen`: For core, stable concepts that are unlikely to change.
+    *   `fleeting`: For quick thoughts or ideas that may be developed later.
+    *   `draft`: For work in progress.
+    *   `in-review`: For notes that are ready for your review.
+    *   `completed`: For notes that are considered finished.
+*   **`tags`**: A list of tags for classification. See the [[tagging-protocol]] for detailed guidance.
+*   **`source`**: The original source of the information, if applicable (e.g., a URL, a book title, a person's name).
+*   **`related_notes`**: A list of wikilinks to other notes that are related but not in a direct hierarchical relationship.
+*   **`parent_note`**: A wikilink to a single parent note. This is crucial for creating hierarchies, especially for atomized notes, where the parent would be the synthesis hub.
+*   **`child_notes`**: A list of wikilinks to child notes. This is the inverse of `parent_note` and is used, for example, by a synthesis hub to link to all the atomic notes generated from it.
 
-This is where the main content of the note begins. Use standard Markdown for formatting.
+## II. Tagging
 
-[Content...]
+For detailed guidance on tagging principles, approved tag hierarchy, and specific tagging strategies, please refer to the dedicated [[tagging-protocol]].
 
-## III. The Daily Note Template: Your Daily Synthesis Framework
+## III. Internal Linking Convention
 
-The daily note is a dynamic workspace designed for organizing and processing your structured insights. It is located at: /Users/splurfa/Documents/GeminiWorkspace/3-System/guides/daily-note-template.md
+For all internal references to other notes or guides within this workspace, use the double-bracketed wikilink format: `[[kebab-case-filename]]`. This is the ONLY accepted format for internal links.
 
-Refer to that file for its specific structure and guidance on how to use its sections for input, active synthesis, emergent insights, parking, and daily reflection.
+## IV. Exceptions to the Universal Schema
 
-## IV. Tagging Protocol
+The following file types are exempt from the universal metadata schema, as they serve specific, non-note purposes:
 
-For detailed guidance on tagging principles, approved tag hierarchy, and specific tagging strategies for different note types (e.g., daily notes vs. project notes), please refer to the dedicated Tagging Protocol document: [[tagging-protocol]].
-
-## V. Process for Formatting Notes
-
-1.  **Add H1 Title:** The first line of the note must be an H1 heading, indicated by a single hash symbol, that exactly matches the filename (e.g., `a-note-title.md` should have `# a-note-title` as its H1).
-2.  **Add Metadata (Inline Tags & Optional YAML):**
-    *   Place inline tags directly within the note content (e.g., #tag-one #tag-two).
-    *   Optional: For general notes, you may still use a YAML frontmatter block for date, description, source, tags, and related_notes.
-    *   **YAML List Syntax for Tags and Related Notes:**
-        *   For tags, use a hyphen followed by a space for each tag. Do NOT include the # symbol in the YAML front matter.
-        *   For related_notes, use a hyphen followed by a space for each wikilink. Use the exact filename (kebab-case) within the double brackets.
-
-    Example YAML for Tags and Related Notes:
-    ```yaml
-tags:
-  - general-note
-  - example-tag
-related_notes:
-  - [[another-example-note]]
-  - [[project-manifest-protocol]]
-    ```
-3.  **Write Content:** Add the body of the note below the metadata.
-4.  **Adjust Heading Hierarchy:** When copying content from one note to another, ensure that the heading levels (e.g., two hash symbols, three hash symbols) are adjusted to maintain a logical and consistent hierarchy within the *target* note. The top-level heading of the copied content should align with the appropriate sub-level in the new document.
-
-## VI. Internal Linking Convention
-
-For all internal references to other notes or guides within this workspace, use the double-bracketed wikilink format: [[kebab-case-filename]]. This is the ONLY accepted format for internal links, ensuring proper recognition and navigation within your knowledge graph. Do NOT use backticks or any other characters around these links.
-
-## VII. Scope of this Protocol
-
-This protocol primarily applies to general notes and daily notes. README.md files follow their own dedicated protocol: [[readme-protocol]].
+*   `README.md` files
+*   `GEMINI.md` files
+*   Protocol and guide documents in `3-System/guides/`
+*   Any other custom documents you create that are not intended to be part of the standard note-taking system.

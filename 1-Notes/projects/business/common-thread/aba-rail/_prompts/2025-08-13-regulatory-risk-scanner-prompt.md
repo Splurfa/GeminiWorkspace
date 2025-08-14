@@ -1,19 +1,12 @@
 ---
-source: "Nate Jones"
-description: "Identifies upcoming regulatory changes and compliance requirements."
-date_added: "2025-08-02"
+title: "Regulatory Risk Scanner"
+date: 2025-08-13
+status: deployed
 tags:
-  - library
-  - prompts
-  - analysis-strategy
+  - prompt
   - regulatory-risk
   - compliance
-  - risk-management
-  - business-strategy
-  - legal
-  - governance
-  - market-entry
-related_notes: []
+related_output: "[[2025-08-13-regulatory-risk-scanner-output.md]]"
 ---
 ## 15. Regulatory Risk Scanner
 
