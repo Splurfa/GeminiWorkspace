@@ -11,8 +11,6 @@ related_notes:
 ---
 # ABA Rail High-Level Summary
 
-#summary #strategy
-
 **The Problem**
 ABA providers juggle multiple disconnected tools for session notes, clinical review, insurance authorizations, and billing. This leads to delays, denied claims, and wasted staff time. The weakest link is the “first mile” — when behavior techs capture data on site. If that step is messy or incomplete, every stage after suffers.
 

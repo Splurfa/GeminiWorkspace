@@ -11,8 +11,6 @@ related_notes:
 ---
 # ABA Rail Initial Idea Synthesis
 
-#synthesis #idea #strategy
-
 ## Checkpoint Summary
 
 Your partner is describing a glaring workflow gap in ABA: there’s no end‑to‑end system that starts with the behavior tech’s ground‑level data capture and programmatically moves the case up the chain (field supervisor → BCBA → payer authorization → admin/RCM), with the right reviews, alerts, and artifacts at each ‘stage gate.’ They believe (1) providers would adopt it immediately if well executed, (2) insurers would love it even more, because it prevents back‑billing and shortens the auth/claims loop, and (3) you have a practical path to build it with a design‑partner clinic (—True Care—) and a willing collaborator (Danny).

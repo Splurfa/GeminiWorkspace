@@ -3,6 +3,11 @@ title: "The ABA Rail Opportunity: A Partnership Proposal"
 date: 2025-08-13
 author: "Gemini CLI"
 status: "Draft"
+tags:
+  - aba-rail
+  - partnership
+  - proposal
+  - strategy
 ---
 
 # The ABA Rail Opportunity

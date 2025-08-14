@@ -11,8 +11,6 @@ related_notes:
 ---
 # ABA Rail Strategic Overview
 
-#strategy #overview
-
 **The Gap**
 In ABA services, critical workflows are spread across disconnected systems: session notes live in one platform, clinical reviews in another, authorizations in payer portals, and billing in yet another tool. This fragmentation causes friction at every step — approvals are slow, claims are often denied for missing or inconsistent documentation, and staff spend too much time re‑entering data. The weakest link is the “first mile,” when behavior techs collect data in the field. Incomplete or inaccurate information at this stage cascades through the system, leading to preventable rework and lost revenue.
 

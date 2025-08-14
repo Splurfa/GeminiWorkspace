@@ -14,6 +14,8 @@ related_notes:
   - "[[aba-rail-initial-idea-synthesis]]"
   - "[[aba-rail-high-level-summary]]"
   - "[[aba-rail-strategic-overview]]"
+  - "[[aba-rail-partnership-package-2025-08-13]]"
+  - "[[competitive-analysis]]"
 ---
 # Project Manifest: ABA Rail
 
