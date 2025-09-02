@@ -31,7 +31,7 @@ Upon receiving a command to generate a meeting summary (e.g., `create meeting su
 
 ## 5. Output & Deployment
 
-*   **Output File:** The generated HTML summary (e.g., `test_summary_output.html` for testing, or `[meeting_name].html` for production) is created.
+*   **Output File:** The generated HTML summary (e.g., `test_summary_output.html` for testing, or `YYYY-MM-DD-[meeting-topic].html` for production) is created. The filename is derived from the source transcript.
 *   **Deployment:** The generated HTML file is committed to the appropriate location within the `portal` repository (e.g., `portal/[entity]/meetings/`). This deployment follows the [[github-sync-protocol]].
 
 ## 6. Command Structure
