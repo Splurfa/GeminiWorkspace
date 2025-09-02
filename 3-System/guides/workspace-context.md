@@ -19,6 +19,7 @@ This Gemini CLI workspace is designed as a permanent home base for your sessions
 ## IV. Active Projects
 
 *   **The Common Thread:** The name of the consulting agency.
+*   **Portal Repository (`common-thread/portal`):** This is the primary source of truth for all client and internal-facing documentation. It must be managed in a structured, user-friendly way, including maintaining an index of all published HTML files.
 *   **Bx OS:** A pilot project being developed for Hillel Hebrew Academy.
 
 ## V. Workspace Structure
