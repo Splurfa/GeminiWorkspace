@@ -23,7 +23,7 @@ This process combines a source transcript, structured conversation flow data (Ma
 
 Upon receiving a command to generate a meeting summary (e.g., `create meeting summary for [entity] [transcript_filename_base]`), the following steps are executed:
 
-1.  **Read Markdown Inputs:** The specified source transcript, conversation flow Markdown, and executive summary Markdown are read from `0-Inbox/assistant/`.
+1.  **Read Markdown Inputs:** The specified conversation flow Markdown and executive summary Markdown are read from `0-Inbox/assistant/`. The source transcript is also present for archival and filename inference, but its content is not directly parsed for HTML generation in this step.
 2.  **Markdown Parsing:** The Markdown content from the conversation flow and executive summary files is parsed into structured data by the `generation_script.js`.
 3.  **HTML Generation:**
     *   The `generation_template.html` (located in `portal/_template_test/generation_template.html`) is read.
