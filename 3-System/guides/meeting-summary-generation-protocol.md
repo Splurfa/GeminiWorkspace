@@ -10,8 +10,7 @@ This process combines a source transcript, structured conversation flow data (Ma
 
 ## 3. Inputs
 
-*   **Source Transcript:** A Markdown file containing the meeting transcript, placed in the `0-Inbox/assistant/` directory.
-    *   Example: `0-Inbox/assistant/Bx OS Stakeholder Meeting.md`
+*   **Source Transcript:** A Markdown file containing the original meeting transcript, placed in the `0-Inbox/assistant/` directory. Its content is used for archival and metadata extraction (future phase), and its base filename is used to infer associated Markdown files.
 *   **Conversation Flow Data (Markdown):** A Markdown file containing the structured conversation flow and key takeaways, derived from the transcript, placed in the `0-Inbox/assistant/` directory.
     *   Expected filename: `[transcript_filename_base]-flow.md` (e.g., `Bx OS Stakeholder Meeting-flow.md`)
     *   **Format:** Expected to contain a Markdown table for the conversation journey and an unordered list for key takeaways.
