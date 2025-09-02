@@ -37,4 +37,6 @@ Upon receiving a command to generate a meeting summary (e.g., `create meeting su
 ## 6. Command Structure
 
 The command to initiate this workflow is:
-`create meeting summary for [company|derek|zach] from [transcript_filename]`
+`create meeting summary for [company|derek|zach] [transcript_filename_base]`
+
+*   **`[transcript_filename_base]`**: This refers to the main part of your transcript's filename (e.g., `Bx OS Stakeholder Meeting` for `Bx OS Stakeholder Meeting.md`). I will use this base name to find the associated flow and summary JSON files in the inbox.
